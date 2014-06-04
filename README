@@ -1,0 +1,56 @@
+SINGCHANA :: Development Workflow - From layout to code
+
+HOW DOES THE DEV ENVIRONMENT LOOK LIKE?
+- Rails 3.2.6
+- PostgreSQL as database (on Heroku, also prefer it locally for better testing)
+- Bitbucket as GIT server
+- Local web server for development tests (from feature branch)
+- Personal Heroku environment for own testing deployments (from feature branch)
+- "singchana.heroku.com" for testing deployments together (from development branch)
+- Jira/Greenhopper for project/task management
+- E-Mail (Singchana Account) / Skype / Jira for communication
+- Dropbox for other material/documents
+
+WHERE ARE MY TASKS?
+- All Tasks are listed in Jira/Grasshopper in the Task Board (Menu Agile)
+- User stories (requirements) are sorted by priority & sprints
+- Each user story will be assigned to a particular developer
+- A user story covers all tasks from HTML/CSS/JS to Ruby on Rails & database layout
+- One developer should work on several tasks from one component (Song, User, Event etc.) - but this is not obligatory
+- Login in Jira/Grasshopper with your @singchana.com account: singchana.atlassian.net
+
+WHERE ARE ADDITIONAL INFOS?
+- Mockup View (how a page looks like) are located in "Dropbox/Singchana2.0/02_Design" - you will use them to get a feeling of the design and the relationship between features
+- Assets will be extracted from the PSD files (if not already extracted by somebody else) --> "Dropbox/Singchana2.0/02_Design"
+- UI-Guidelines (e.g. how something behaves which is not static) --> "Dropbox/Singchana2.0/02_Design"
+- Development Guidelines (e.g. breakdown of the layout into modules/features) --> "Dropbox/Singchana2.0/03_Development"
+
+HOW SHOULD I CODE/WORK? 
+- Drag a user story into progress (in Jira/Greenhopper --> Agile --> Task Board), if not assigned to you, assign it
+- Analyse it, ask questions (by using comment system in the task itself) if necessary, check similar tasks, check if UI element are already extracted for it, check if their a relationships to other tasks (by other developers)
+- Pull latest code from Bitbucket
+- Switch to "develop" branch
+- Make a local feature-branch (should be a readable name reflecting the current task)
+- Write the tests!!! (with RSpec)
+- Extract the assets if needed
+- Write the code (HTML/CSS/Javascript/RoR/DB)
+- Test locally (e.g. "rails server")
+- Test on own Heroku-Server (e.g. "git push heroku 'YOUR BRANCH':master", don't use "singchana.heroku.com" for this purpose)
+- Commit code (see below for commit messages) and merge it with the development branch 
+- Immediately push develop branch it to server --> sort out conflicts and/or inform other developers about the conflict
+- Log your work (at least the amount) in Jira (for bigger tasks also in between, not just at the end)
+- Drag the task to done
+
+Commit Messages
+- Commit Message should well describe the changes you did, they will be visible in Jira
+- Commit Message MUST include the User Story you are working on e.g. "SCO-1". Commit message then will be automatically reflected in Jira (for details see: https://confluence.atlassian.com/display/BITBUCKET/Using+the+JIRA+DVCS+Connector+Plugin)
+
+Some hints for working with the repository:
+- Don't touch "master" branch (unless instructed by me)
+- Use "develop" branch (create your local one with "git checkout -b develop origin/develop")
+- Just put local "develop" branch to server, no premature feature branch(es)
+- Push regularly to server so that conflicts can be resolved early
+- Every push to Bitbucket should be done with the following command, to make sure the origin and remote branch is correct: ""$ git push origin develop:develop""
+- Follow the guidelines in the links belove - stick to them!!!
+see: http://stackoverflow.com/questions/1519006/git-how-to-create-remote-branch
+see: http://nvie.com/posts/a-successful-git-branching-model/

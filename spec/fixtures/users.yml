@@ -1,0 +1,13 @@
+
+john:
+  name: John
+  email: john.doe@gmail.com
+  password_hash: "$2a$10$8neV49nAXHFDByxCVNO1ReZ3gF1eM9vm/eXFDYhS5Q7h7QjOiBZYe"
+    # Password: correct_password
+  
+jane:
+  name: Jane
+  email: jane.doe@yahoo.com
+  password_hash: "$2a$10$p3KgmPHT1wEmMTIILof60u1GJEYF/OvkMB7UEa0rIv67i1i0NGUNa"
+    # Password: correct_password
+

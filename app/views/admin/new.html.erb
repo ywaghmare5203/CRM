@@ -1,0 +1,35 @@
+
+
+<div id="create_account_panel" class="popup_panel">
+  <ul class="breadcrumb">
+    <li class="current">New account</li>
+    <li>Your voice</li>
+    <li>Your face</li>
+    <li>Let's sing!</li>
+  </ul>
+
+<%=  form_for(@admin, :as => :admin, :url => admin_create_path, :method => "post") do |f| %>
+  <div class="content">
+    <h2>Account Details</h2>
+
+    <div>
+      <%= f.label :email %>:<br/>
+      <%= f.email_field :email, :placeholder => 'Your e-mail' %>
+    </div>
+    <div>
+      <%= f.label :password %>:<br/>
+      <%= f.password_field :password, :placeholder => 'Your password' %>
+    </div>
+
+    <div>
+      <%= f.label :password_confirmation %>:<br/>
+      <%= f.password_field :password_confirmation %>
+    </div>
+    
+    <div>
+      <%= f.submit :Login %>
+    </div>
+  </div>
+ <% end %>
+
+</div>

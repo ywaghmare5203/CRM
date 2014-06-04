@@ -1,0 +1,28 @@
+ 
+<%= javascript_include_tag "swfobject" %>
+<script>
+  /* Do after DOM ready. */
+  $(document).ready(function()
+  {
+     /* Information to be passed to the Flash file. */
+     var flashVars = {
+       songId: <%= @song.id %>,
+       songFileURL: "<%= @song.file_url %>"
+    };
+
+    /* Embed Flash file using swfobject. */
+    var minVersion = "10.1";
+    if (swfobject.hasFlashPlayerVersion(minVersion))
+      swfobject.embedSWF("/files/KaraokePlayer.swf", "flash_object", 
+          "760", "600", minVersion, "/files/express_install.swf", 
+          flashVars, {allowScriptAccess: 'always', wmode: 'transparent'});
+  });
+</script>
+  
+<!-- The Karaoke game section. -->
+<div id="karaoke">
+  <!-- Flash container. -->
+  <div id="flash_object">
+    <%= link_to image_tag('no_flash.png', :alt => 'Please install Adobe Flash Player'), 'http://www.adobe.com/go/getflashplayer' %>
+  </div>
+</div>

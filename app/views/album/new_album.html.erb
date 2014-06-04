@@ -1,0 +1,36 @@
+<h2>Album.....................................!</h2>
+<script>
+  $(document).ready(function() {
+  $("#button").bind("click", function() {
+    /* Generating unique id
+    */
+   var num     = $('.clonedInput').length;
+   var newNum  = new Number(num + 1);
+    var rand = Math.random().toString().split(".")[1];
+    var input = '<input type="text" name="album[]" class="album['+newNum+']" />'
+
+    $(this).before('<br/>' + input );
+  });
+
+  /* Pushing the first input to the DOM
+  */
+  $("#button").trigger("click");
+
+});
+</script>
+<%= form_for(@album, :as =>:album, :url => create_album_path, :method => "post") do |f| %>
+
+   <div class="field">
+                               <div class="clonedInput" id="input1">
+
+                            <label>Album Name</label>
+                            <div class="clear"></div>
+                            <a href="javascript:void(0)" id="button">Add more</a>
+                            <div class="clear"></div>
+                            <div class="ations">
+                             <input type="submit" id="save" class="save" value="Submit"/>
+                            </div>
+  </div>
+  </div>
+
+<% end %>

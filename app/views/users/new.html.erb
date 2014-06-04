@@ -1,0 +1,44 @@
+
+<div id="create_account_panel" class="popup_panel">
+  <ul class="breadcrumb">
+    <li class="current">New account</li>  
+    <li>Your voice</li>
+    <li>Your face</li>
+    <li>Let's sing!</li>
+  </ul>
+  
+  <%= form_for @user, :remote => true do |f| %>
+
+  <div class="content">
+    <h2>Account Details</h2>
+    
+    <div>
+      <%= f.label :email %>
+      <%= f.email_field :email, :placeholder => 'Your e-mail' %>
+      <%= error_tag(@user, :email) %>
+    </div><div>
+      <%= f.label :name %>
+      <%= f.text_field :name, :placeholder => 'Your nickname' %>
+      <%= error_tag(@user, :name) %>
+    </div><div>
+      <%= f.label :password %>
+      <%= f.password_field :password, :placeholder => 'Your password' %>
+      <%= error_tag(@user, :password) %>
+    </div><div>
+      <%= f.label :password_confirmation %>
+      <%= f.password_field :password_confirmation, :placeholder => 'Confirm your password' %>
+      <%= error_tag(@user, :password_confirmation) %>
+    </div>
+  </div>
+  
+  <div class="footer">
+    <p>
+      <%= f.check_box :terms_and_condition %>
+      <span>I accept <a href="#">Terms and Condition.</a></span><br />
+      <%= error_tag @user, :terms_and_condition %>
+    </p>
+    <div><%= submit_tag 'OK', disable_with: 'Saving...', class: 'ok' %></div>
+  </div>
+  
+  <% end %>
+</div>

@@ -1,0 +1,18 @@
+
+sing_count_1:
+  category: sing_count
+  required_value: 1
+  name: In the Shower Star
+  description: Sing at least 1 song
+
+sing_count_5:
+  category: sing_count
+  required_value: 5
+  name: Karaoke Star
+  description: Sing 5 songs
+
+sing_count_10:
+  category: sing_count
+  required_value: 10
+  name: Student Band Star
+  description: Sing 10 songs

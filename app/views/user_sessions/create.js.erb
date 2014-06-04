@@ -1,0 +1,13 @@
+
+<% if @redirect_url.present? %>
+  window.location = '<%= @redirect_url %>'
+<% end %>
+
+<% if @user_session.errors.any? %>
+  // Display error message.
+  $('#login_message').removeClass('hidden').addClass('error');
+  $('#login_message').html('Invalid e-mail or password');
+  
+  // Resize colorbox popup
+  $.colorbox.resize();
+<% end %>

@@ -1,0 +1,39 @@
+<h2>Album List...............................!</h2>
+
+<div id="restaurant-1">
+                       <table class="tabledes lft_aln">
+
+                        <thead>
+                          <tr>
+                                <th>S#</th>
+                                <th>Album Name</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                           <%if @album_list.nil?%>
+                          <h4>There are no Music Type to show under this Music List.</h4>
+                            <%end%>
+
+                          <%@count=0%>
+                           <% @album_list.each do |al| %>
+                            <tr class="alt">
+                                <td><%=@count+= 1  %></td>
+                                <td><%= al.title%></td>
+                                <td>
+
+                                <div class="action group rest-list-act">
+                                      <%= link_to 'Edit', :controller => "album", :action => "edit_album", :class => "popup" , :id => al.id%>
+                                            <span>/</span>
+                                            <%= link_to 'Delete',:controller => "album", :action => "destroy_album", :id => al.id %>
+
+                                </div>
+                                </td>
+                            </tr>
+                            <%end%>
+
+                               </tbody>
+
+                    </table>
+                     </div>

@@ -1,0 +1,330 @@
+<song title="Ain't No Sunshine" artist="Bill Withers" noteFrameLength="50" meanNote="72">
+  <line>
+    <start value="1575"/>
+    <syllable type="normal" start="3150" length="200" note="64" text="Ain't"/>
+    <syllable type="normal" start="3350" length="400" note="67" text=" no"/>
+    <syllable type="normal" start="3750" length="400" note="69" text=" sun"/>
+    <syllable type="normal" start="4200" length="500" note="72" text="shine"/>
+    <syllable type="normal" start="4750" length="450" note="71" text=" when"/>
+    <syllable type="normal" start="5200" length="200" note="67" text=" she's"/>
+    <syllable type="normal" start="5400" length="450" note="69" text="~"/>
+    <syllable type="normal" start="5950" length="1150" note="69" text="gone"/>
+    <end value="7200"/>
+  </line>
+  <line>
+    <start value="7200"/>
+    <syllable type="normal" start="9600" length="200" note="64" text="It's"/>
+    <syllable type="normal" start="9850" length="350" note="67" text=" not"/>
+    <syllable type="golden" start="10200" length="750" note="69" text=" warm"/>
+    <syllable type="normal" start="10950" length="450" note="72" text=" when"/>
+    <syllable type="normal" start="11400" length="400" note="71" text=" she's"/>
+    <syllable type="normal" start="11800" length="200" note="67" text=" a"/>
+    <syllable type="normal" start="12000" length="1150" note="69" text="way"/>
+    <end value="13250"/>
+  </line>
+  <line>
+    <start value="13250"/>
+    <syllable type="normal" start="16000" length="150" note="69" text="Ain't"/>
+    <syllable type="normal" start="16200" length="150" note="69" text=" no"/>
+    <syllable type="normal" start="16600" length="200" note="72" text=" sun"/>
+    <syllable type="normal" start="17000" length="550" note="76" text="shine"/>
+    <syllable type="normal" start="17550" length="150" note="74" text=" when"/>
+    <syllable type="normal" start="17750" length="100" note="76" text=" she's"/>
+    <syllable type="normal" start="17950" length="350" note="76" text=" gone"/>
+    <syllable type="normal" start="18300" length="550" note="74" text="~"/>
+    <end value="18950"/>
+  </line>
+  <line>
+    <start value="18950"/>
+    <syllable type="normal" start="19300" length="150" note="72" text="And"/>
+    <syllable type="normal" start="19500" length="200" note="74" text=" she's"/>
+    <syllable type="normal" start="19700" length="500" note="72" text=" al"/>
+    <syllable type="normal" start="20200" length="400" note="69" text="ways"/>
+    <syllable type="normal" start="20600" length="350" note="67" text=" gone"/>
+    <syllable type="normal" start="21000" length="200" note="69" text=" too"/>
+    <syllable type="normal" start="21200" length="250" note="64" text="~"/>
+    <syllable type="normal" start="21450" length="200" note="67" text="long"/>
+    <syllable type="normal" start="21650" length="450" note="69" text="~"/>
+    <end value="22150"/>
+  </line>
+  <line>
+    <start value="22150"/>
+    <syllable type="normal" start="22250" length="150" note="72" text="An"/>
+    <syllable type="normal" start="22450" length="200" note="74" text="y"/>
+    <syllable type="golden" start="22650" length="650" note="72" text="time"/>
+    <syllable type="normal" start="23800" length="200" note="69" text=" she"/>
+    <syllable type="normal" start="24000" length="350" note="67" text=" goes"/>
+    <syllable type="normal" start="24400" length="100" note="69" text=" a"/>
+    <syllable type="normal" start="24600" length="1550" note="69" text="way"/>
+    <end value="26250"/>
+  </line>
+  <line>
+    <start value="26250"/>
+    <syllable type="normal" start="28600" length="250" note="64" text="Won"/>
+    <syllable type="normal" start="28850" length="600" note="67" text="der"/>
+    <syllable type="normal" start="29450" length="200" note="69" text=" this"/>
+    <syllable type="normal" start="29650" length="450" note="72" text=" time"/>
+    <syllable type="normal" start="30250" length="150" note="72" text=" where"/>
+    <syllable type="normal" start="30400" length="600" note="71" text="~"/>
+    <syllable type="normal" start="31000" length="300" note="69" text="she's"/>
+    <syllable type="normal" start="31350" length="1050" note="69" text=" gone"/>
+    <end value="32500"/>
+  </line>
+  <line>
+    <start value="32500"/>
+    <syllable type="normal" start="34900" length="200" note="64" text="Won"/>
+    <syllable type="normal" start="35100" length="550" note="67" text="der"/>
+    <syllable type="normal" start="35650" length="250" note="69" text=" if"/>
+    <syllable type="golden" start="35900" length="500" note="72" text=" she's"/>
+    <syllable type="normal" start="36400" length="750" note="71" text=" gone"/>
+    <syllable type="normal" start="37150" length="350" note="67" text=" to"/>
+    <syllable type="normal" start="37500" length="1150" note="69" text=" stay"/>
+    <end value="38750"/>
+  </line>
+  <line>
+    <start value="38750"/>
+    <syllable type="normal" start="41050" length="150" note="69" text="Ain't"/>
+    <syllable type="normal" start="41300" length="250" note="69" text=" no"/>
+    <syllable type="normal" start="41650" length="250" note="72" text=" sun"/>
+    <syllable type="normal" start="42050" length="550" note="76" text="shine"/>
+    <syllable type="normal" start="42600" length="150" note="74" text=" when"/>
+    <syllable type="normal" start="42750" length="100" note="76" text=" she's"/>
+    <syllable type="golden" start="42950" length="400" note="76" text=" gone"/>
+    <syllable type="normal" start="43350" length="550" note="74" text="~"/>
+    <end value="44000"/>
+  </line>
+  <line>
+    <start value="44000"/>
+    <syllable type="normal" start="44300" length="150" note="72" text="And"/>
+    <syllable type="normal" start="44500" length="200" note="74" text=" this"/>
+    <syllable type="normal" start="44700" length="350" note="72" text=" house"/>
+    <syllable type="normal" start="45200" length="250" note="69" text=" just"/>
+    <syllable type="normal" start="45450" length="550" note="67" text=" ain't"/>
+    <syllable type="normal" start="46000" length="200" note="69" text=" no"/>
+    <syllable type="normal" start="46200" length="200" note="64" text="~"/>
+    <syllable type="normal" start="46400" length="200" note="67" text="home"/>
+    <syllable type="normal" start="46600" length="500" note="69" text="~"/>
+    <end value="47150"/>
+  </line>
+  <line>
+    <start value="47150"/>
+    <syllable type="normal" start="47200" length="200" note="72" text="An"/>
+    <syllable type="normal" start="47400" length="200" note="74" text="y"/>
+    <syllable type="normal" start="47600" length="550" note="72" text="time"/>
+    <syllable type="normal" start="48700" length="200" note="69" text=" she"/>
+    <syllable type="normal" start="48950" length="350" note="67" text=" goes"/>
+    <syllable type="normal" start="49300" length="100" note="69" text=" a"/>
+    <syllable type="normal" start="49500" length="1350" note="69" text="way"/>
+    <end value="50950"/>
+  </line>
+  <line>
+    <start value="50950"/>
+    <syllable type="normal" start="53150" length="150" note="64" text="And"/>
+    <syllable type="normal" start="53350" length="200" note="67" text=" I"/>
+    <syllable type="normal" start="53550" length="350" note="69" text=" know"/>
+    <syllable type="normal" start="53900" length="200" note="67" text=" I"/>
+    <syllable type="normal" start="54100" length="350" note="69" text=" know"/>
+    <syllable type="normal" start="54450" length="200" note="67" text=" I"/>
+    <syllable type="normal" start="54650" length="350" note="69" text=" know"/>
+    <syllable type="normal" start="55050" length="150" note="67" text=" I"/>
+    <syllable type="normal" start="55250" length="300" note="69" text=" know"/>
+    <end value="55600"/>
+  </line>
+  <line>
+    <start value="55600"/>
+    <syllable type="normal" start="55600" length="200" note="67" text="I"/>
+    <syllable type="normal" start="55800" length="350" note="69" text=" know"/>
+    <syllable type="normal" start="56200" length="150" note="67" text=" I"/>
+    <syllable type="normal" start="56350" length="350" note="69" text=" know"/>
+    <syllable type="normal" start="56700" length="200" note="67" text=" I"/>
+    <syllable type="normal" start="56900" length="350" note="69" text=" know"/>
+    <syllable type="normal" start="57300" length="200" note="67" text=" I"/>
+    <syllable type="normal" start="57500" length="200" note="69" text=" know"/>
+    <syllable type="normal" start="57700" length="100" note="64" text="~"/>
+    <end value="57850"/>
+  </line>
+  <line>
+    <start value="57850"/>
+    <syllable type="normal" start="57850" length="200" note="67" text="I"/>
+    <syllable type="normal" start="58050" length="350" note="69" text=" know"/>
+    <syllable type="normal" start="58400" length="200" note="67" text=" I"/>
+    <syllable type="normal" start="58600" length="350" note="69" text=" know"/>
+    <syllable type="normal" start="58950" length="200" note="67" text=" I"/>
+    <syllable type="normal" start="59200" length="350" note="69" text=" know"/>
+    <syllable type="normal" start="59550" length="150" note="67" text=" I"/>
+    <syllable type="normal" start="59700" length="200" note="69" text=" know"/>
+    <syllable type="normal" start="59900" length="150" note="64" text="~"/>
+    <end value="60100"/>
+  </line>
+  <line>
+    <start value="60100"/>
+    <syllable type="normal" start="60100" length="200" note="67" text="I"/>
+    <syllable type="normal" start="60300" length="350" note="69" text=" know"/>
+    <syllable type="normal" start="60650" length="200" note="67" text=" I"/>
+    <syllable type="golden" start="60850" length="300" note="72" text=" know"/>
+    <end value="61200"/>
+  </line>
+  <line>
+    <start value="61200"/>
+    <syllable type="normal" start="61250" length="150" note="69" text="I"/>
+    <syllable type="normal" start="61450" length="300" note="69" text=" know"/>
+    <syllable type="normal" start="61750" length="200" note="67" text=" I"/>
+    <syllable type="normal" start="61950" length="350" note="69" text=" know"/>
+    <end value="62350"/>
+  </line>
+  <line>
+    <start value="62350"/>
+    <syllable type="normal" start="62350" length="200" note="67" text="I"/>
+    <syllable type="normal" start="62550" length="350" note="69" text=" know"/>
+    <syllable type="normal" start="62900" length="200" note="67" text=" I"/>
+    <syllable type="normal" start="63100" length="350" note="69" text=" know"/>
+    <syllable type="normal" start="63450" length="200" note="67" text=" I"/>
+    <syllable type="normal" start="63650" length="350" note="69" text=" know"/>
+    <syllable type="normal" start="64000" length="200" note="67" text=" I"/>
+    <syllable type="normal" start="64200" length="300" note="69" text=" know"/>
+    <end value="64550"/>
+  </line>
+  <line>
+    <start value="64550"/>
+    <syllable type="normal" start="64550" length="200" note="67" text="I"/>
+    <syllable type="normal" start="64750" length="400" note="69" text=" know"/>
+    <syllable type="normal" start="65150" length="200" note="67" text=" I"/>
+    <syllable type="normal" start="65350" length="300" note="69" text=" know"/>
+    <syllable type="normal" start="65700" length="200" note="69" text=" I"/>
+    <syllable type="normal" start="65900" length="350" note="69" text=" know"/>
+    <syllable type="normal" start="66250" length="200" note="67" text=" I"/>
+    <syllable type="normal" start="66450" length="300" note="69" text=" know"/>
+    <end value="66800"/>
+  </line>
+  <line>
+    <start value="66800"/>
+    <syllable type="normal" start="66800" length="200" note="67" text="I"/>
+    <syllable type="normal" start="67000" length="300" note="69" text=" know"/>
+    <syllable type="normal" start="67350" length="200" note="69" text=" I"/>
+    <syllable type="normal" start="67550" length="300" note="72" text=" know"/>
+    <syllable type="golden" start="68100" length="300" note="76" text=" hey"/>
+    <end value="68450"/>
+  </line>
+  <line>
+    <start value="68450"/>
+    <syllable type="normal" start="68450" length="150" note="74" text="I"/>
+    <syllable type="normal" start="68650" length="150" note="76" text=" ought"/>
+    <syllable type="normal" start="68850" length="100" note="76" text=" to"/>
+    <syllable type="golden" start="69000" length="150" note="79" text=" leave"/>
+    <syllable type="normal" start="69200" length="100" note="76" text=" the"/>
+    <syllable type="normal" start="69350" length="300" note="76" text=" young"/>
+    <end value="69700"/>
+  </line>
+  <line>
+    <start value="69700"/>
+    <syllable type="normal" start="69750" length="350" note="74" text="Thing"/>
+    <syllable type="normal" start="70100" length="200" note="72" text=" a"/>
+    <syllable type="normal" start="70300" length="200" note="74" text="lone"/>
+    <syllable type="normal" start="70500" length="300" note="72" text="~"/>
+    <end value="70900"/>
+  </line>
+  <line>
+    <start value="70900"/>
+    <syllable type="normal" start="71050" length="150" note="69" text="But"/>
+    <syllable type="normal" start="71250" length="200" note="76" text=" ain't"/>
+    <syllable type="normal" start="71450" length="200" note="74" text=" no"/>
+    <syllable type="normal" start="71800" length="200" note="74" text=" sun"/>
+    <syllable type="normal" start="72200" length="550" note="72" text="shine"/>
+    <syllable type="normal" start="72750" length="200" note="69" text=" when"/>
+    <syllable type="normal" start="73050" length="700" note="69" text=" she's"/>
+    <syllable type="normal" start="73850" length="900" note="69" text=" gone"/>
+    <end value="74850"/>
+  </line>
+  <line>
+    <start value="74850"/>
+    <syllable type="normal" start="77250" length="200" note="64" text="Ain't"/>
+    <syllable type="normal" start="77450" length="350" note="67" text=" no"/>
+    <syllable type="normal" start="77800" length="350" note="69" text=" sun"/>
+    <syllable type="normal" start="78150" length="600" note="72" text="shine"/>
+    <syllable type="normal" start="78750" length="350" note="71" text=" when"/>
+    <syllable type="normal" start="79100" length="500" note="69" text=" she's"/>
+    <syllable type="normal" start="79850" length="1100" note="69" text=" gone"/>
+    <end value="81050"/>
+  </line>
+  <line>
+    <start value="81050"/>
+    <syllable type="normal" start="83250" length="350" note="64" text="On"/>
+    <syllable type="normal" start="83600" length="250" note="67" text="ly"/>
+    <syllable type="golden" start="83850" length="500" note="69" text=" dark"/>
+    <syllable type="normal" start="84350" length="250" note="72" text="ness"/>
+    <syllable type="normal" start="84600" length="300" note="71" text="~"/>
+    <syllable type="normal" start="84950" length="300" note="71" text="eve"/>
+    <syllable type="normal" start="85250" length="250" note="67" text="ry"/>
+    <syllable type="normal" start="85500" length="1250" note="69" text="day"/>
+    <end value="86850"/>
+  </line>
+  <line>
+    <start value="86850"/>
+    <syllable type="normal" start="89250" length="150" note="69" text="Ain't"/>
+    <syllable type="normal" start="89450" length="200" note="69" text=" no"/>
+    <syllable type="normal" start="89850" length="250" note="72" text=" sun"/>
+    <syllable type="normal" start="90200" length="550" note="76" text="shine"/>
+    <syllable type="normal" start="90750" length="150" note="74" text=" when"/>
+    <syllable type="normal" start="90900" length="100" note="76" text=" she's"/>
+    <syllable type="normal" start="91100" length="350" note="76" text=" gone"/>
+    <syllable type="normal" start="91450" length="600" note="74" text="~"/>
+    <end value="92150"/>
+  </line>
+  <line>
+    <start value="92150"/>
+    <syllable type="normal" start="92400" length="150" note="72" text="And"/>
+    <syllable type="normal" start="92550" length="200" note="74" text=" this"/>
+    <syllable type="normal" start="92800" length="450" note="72" text=" house"/>
+    <syllable type="normal" start="93300" length="250" note="69" text=" just"/>
+    <syllable type="normal" start="93550" length="500" note="67" text=" ain't"/>
+    <syllable type="normal" start="94050" length="200" note="69" text=" no"/>
+    <syllable type="normal" start="94250" length="200" note="64" text="~"/>
+    <syllable type="normal" start="94450" length="200" note="67" text="home"/>
+    <syllable type="normal" start="94650" length="500" note="69" text="~"/>
+    <end value="95200"/>
+  </line>
+  <line>
+    <start value="95200"/>
+    <syllable type="normal" start="95250" length="150" note="72" text="An"/>
+    <syllable type="normal" start="95400" length="200" note="74" text="y"/>
+    <syllable type="golden" start="95600" length="500" note="72" text="time"/>
+    <syllable type="normal" start="96700" length="200" note="69" text=" she"/>
+    <syllable type="normal" start="96900" length="400" note="67" text=" goes"/>
+    <syllable type="normal" start="97300" length="100" note="69" text=" a"/>
+    <syllable type="normal" start="97500" length="1400" note="69" text="way"/>
+    <end value="99000"/>
+  </line>
+  <line>
+    <start value="99000"/>
+    <syllable type="normal" start="101250" length="200" note="72" text="An"/>
+    <syllable type="normal" start="101450" length="150" note="74" text="y"/>
+    <syllable type="normal" start="101600" length="600" note="72" text="time"/>
+    <syllable type="normal" start="102750" length="200" note="69" text=" she"/>
+    <syllable type="normal" start="102950" length="350" note="67" text=" goes"/>
+    <syllable type="normal" start="103300" length="100" note="69" text=" a"/>
+    <syllable type="normal" start="103500" length="1800" note="69" text="way"/>
+    <end value="105400"/>
+  </line>
+  <line>
+    <start value="105400"/>
+    <syllable type="normal" start="107250" length="150" note="72" text="An"/>
+    <syllable type="normal" start="107450" length="150" note="74" text="y"/>
+    <syllable type="normal" start="107600" length="550" note="72" text="time"/>
+    <syllable type="normal" start="108700" length="200" note="69" text=" she"/>
+    <syllable type="normal" start="108900" length="400" note="67" text=" goes"/>
+    <syllable type="normal" start="109300" length="200" note="69" text=" a"/>
+    <syllable type="normal" start="109500" length="1350" note="69" text="way"/>
+    <end value="110950"/>
+  </line>
+  <line>
+    <start value="110950"/>
+    <syllable type="normal" start="113250" length="150" note="72" text="An"/>
+    <syllable type="normal" start="113450" length="150" note="74" text="y"/>
+    <syllable type="normal" start="113600" length="600" note="72" text="time"/>
+    <syllable type="normal" start="114700" length="200" note="69" text=" she"/>
+    <syllable type="normal" start="114900" length="350" note="67" text=" goes"/>
+    <syllable type="normal" start="115300" length="200" note="69" text=" a"/>
+    <syllable type="golden" start="115500" length="1500" note="69" text="way"/>
+    <end value="117500"/>
+  </line>
+</song>

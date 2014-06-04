@@ -1,0 +1,108 @@
+<h2> Welcome Admin</h2>
+<script>
+  $(function() {
+    scroll_pane = $('#popular_songs').jScrollPane({ showArrows: true });
+  });
+</script>
+
+<%= render :partial => 'search_panel' %>
+
+<div class="panel">
+  <div class="header">
+    <h2>Popular Songs</h2>
+    <div class="buttons">
+      <button>Today</button>
+      <button>Last week</button>
+      <button>This month</button>
+      <button>All time</button>
+    </div>
+    <div class="clear"></div>
+  </div>
+
+  <div class="content">
+
+    <ul id="popular_songs">
+<audio controls="controls">
+  <source src="public/system/musics/1/original/32_EK_TERA_SAATH.mp3" type="audio/ogg" />
+  <source src="horse.mp3" type="audio/mp3" />
+
+
+  <audio_tag("32_EK_TERA_SAATH.mp3", :autoplay => true, :controls => true)  # =>
+  <audio autoplay="autoplay" controls="controls" src="public/system/musics/1/original/32_EK_TERA_SAATH.mp3" />
+  Your browser does not support the audio element.
+</audio>
+       <embed height="100" width="100" src="public/system/musics/1/original/32_EK_TERA_SAATH.mp3" />
+
+      <%# @songs.each do |song| %>
+        <%#*<li class="song">%>
+          <%#= link_to karaoke_path(song.id) do %>
+            <%#= image_tag('sample_album_pict.jpg', :alt => song.title) %>
+          <%# end %>
+          <%#*<p class="song_title"><%= song.title %></p>%>
+          <%#*<p class="song_artist">by <%= song.artist.name %></p>%>
+        <%#*</li>%>
+      <%# end %>
+    </ul>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

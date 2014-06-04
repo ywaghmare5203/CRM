@@ -1,0 +1,7 @@
+<h2>Edit Music...............................!</h2>
+
+<%= form_for(@edit_artist, :as=> :artist, :url => {:controller => "artist", :action => "artist_edit"}, :method => "post", :id => @edit_artist.id ) do |f| %>
+<label>Music Type</label>
+  <%= f.text_field :name  %><br/>
+<%= f.submit :Update %>
+<%end%>

@@ -1,0 +1,63 @@
+<script>
+  $(document).ready(function() {
+  $("#button").bind("click", function() {
+    /* Generating unique id
+    */
+   var num     = $('.clonedInput').length;
+   var newNum  = new Number(num + 1);
+    var rand = Math.random().toString().split(".")[1];
+    var input = '<input type="file" name="music[]" class="music['+newNum+']" />'
+
+    $(this).before('<br/>' + input );
+  });
+
+  /* Pushing the first input to the DOM
+  */
+  $("#button").trigger("click");
+
+});
+</script>
+
+
+<%= form_for(@song, :as => :song, :url => create_song_path,:html => {:multipart => true}, :method => "post") do |f| %>
+<h2>Add Songs.......................</h2>
+
+<div>
+  <label>Music Title :</label><br/>
+  <%= f.text_field :title %>
+
+</div>
+
+<div>
+  <label>Select Artist :</label><br/>
+  <%= select(:song, :artist_id, @artist.collect {|p| [p.name,p.id]  }, {:prompt => 'Select Artist'})%>
+</div>
+
+<div>
+  <label>Select Album :</label><br/>
+  <%= select(:song, :album_id, @album.collect {|p| [p.title,p.id]  }, {:prompt => 'Select Album'})%>
+</div>
+
+<div>
+  <label>Select Music Type :</label><br/>
+  <%= select(:song, :music_id, @music.collect {|p| [p.name,p.id]  }, {:prompt => 'Select Music Type'})%>
+</div>
+
+   <div class="file">
+                               <div class="clonedInput" id="input1">
+
+                            <label>Upload File</label>
+
+
+                            <div class="clear"></div>
+                            <a href="javascript:void(0)" id="button">Add more</a>
+                            <div class="clear"></div>
+                            <div class="ations">
+                             <input type="submit" id="save" class="save" value="Submit"/>
+                            </div>
+  </div>
+   </div>
+
+
+
+<% end %>

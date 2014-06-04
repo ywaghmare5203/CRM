@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Singchana</title>
+  <%= csrf_meta_tags %>
+
+  <%= javascript_include_tag "application" %>
+
+  <%= stylesheet_link_tag "application" %>
+  <!--[if IE]> <%= stylesheet_link_tag "application_ie" %> <![endif]-->
+
+  <script>
+    $(function() { $('a.popup').colorbox(); });
+  </script>
+</head>
+<body>
+  <div id="topbar">
+    <div id="logo"><a href="/admin/dashboard"><%= image_tag 'singchana_logo.png', :alt => 'Singchana' %></a></div>
+
+    <ul id="topmenu">
+
+      <li class="menu-division" />
+
+      <%#*<li><a href="#">Music Library</a></li><li class="menu-division" />%>
+      <%#*<li><a href="#">Best Users</a></li><li class="menu-division" />%>
+      <%#*<li><a href="#">Event</a></li><li class="menu-division" />%>
+      <%#*<li><a href="#">Help</a></li><li class="menu-division" />%>
+
+
+
+
+<li> <%= link_to "Add Music",add_song_path %></li>
+
+
+      <li class="submenu">
+        <a href="#">&nbsp;&nbsp; Artist &nbsp;&nbsp;</a>
+              <ul>
+            <li> <%= link_to "create",new_artist_path %></li>
+
+            <li><%= link_to "Artist list", artist_list_path%></li>
+        </ul>
+      </li>
+
+
+
+        <li class="submenu">
+        <a href="#">&nbsp;&nbsp; Album &nbsp;&nbsp;</a>
+              <ul>
+            <li> <%= link_to "create", new_album_path %></li>
+
+            <li><%= link_to "Album list", album_list_path%></li>
+        </ul>
+      </li>
+
+      <li class="submenu">
+        <a href="#">&nbsp;&nbsp; Music Type &nbsp;&nbsp;</a>
+              <ul>
+            <li> <%= link_to "create", new_music_path %></li>
+
+            <li><%= link_to "Music list", music_list_path%></li>
+        </ul>
+      </li>
+
+      <li class="submenu">
+        <a href="#">&nbsp; &nbsp; Admin</a>
+        <ul>
+          <% if current_admin.nil? %>
+            <li><%= link_to "Log in", login1_path, :class => 'popup' %></li>
+            <li><%= link_to "Sign up", new_admin_path, :class => 'popup' %></li>
+          <% elsif %>
+            <li><%= link_to "Log out", log_out_path %></li>
+          <% end %>
+        </ul>
+      </li>
+
+    </ul>
+  </div>
+  <div style="float:none; clear:both;"></div>
+
+  <div id="content">
+    <% flash.each do |name, msg| %>
+      <%= content_tag :div, msg, :class => name %>
+    <% end %>
+
+    <%= yield %>
+  </div>
+</body>
+</html>

@@ -1,0 +1,732 @@
+<song artist="Katy Perry" title="California Gurls (feat. Snoop Dogg)" noteFrameLength="60" meanNote="67">
+  <line>
+    <start value="4450"/>
+    <syllable type="normal" start="8900" length="360" note="69" text="I"/>
+    <syllable type="normal" start="10100" length="120" note="69" text="know"/>
+    <syllable type="normal" start="10340" length="120" note="67" text="a"/>
+    <syllable type="golden" start="10580" length="360" note="65" text="place"/>
+    <end value="11060"/>
+  </line>
+  <line>
+    <start value="11060"/>
+    <syllable type="normal" start="12260" length="120" note="65" text="Where"/>
+    <syllable type="normal" start="12500" length="120" note="67" text="the"/>
+    <syllable type="normal" start="12740" length="120" note="69" text="grass"/>
+    <syllable type="normal" start="12980" length="120" note="69" text="is"/>
+    <syllable type="normal" start="13220" length="120" note="67" text="real"/>
+    <syllable type="normal" start="13460" length="120" note="65" text="ly"/>
+    <syllable type="normal" start="13700" length="360" note="67" text="gree"/>
+    <syllable type="normal" start="14180" length="360" note="62" text="ner"/>
+    <end value="14660"/>
+  </line>
+  <line>
+    <start value="14660"/>
+    <syllable type="normal" start="16580" length="360" note="69" text="Warm,"/>
+    <syllable type="normal" start="17780" length="120" note="69" text="wet"/>
+    <syllable type="normal" start="18020" length="120" note="67" text="and"/>
+    <syllable type="normal" start="18260" length="360" note="65" text="wild"/>
+    <end value="18740"/>
+  </line>
+  <line>
+    <start value="18740"/>
+    <syllable type="normal" start="19700" length="120" note="62" text="There"/>
+    <syllable type="normal" start="19940" length="120" note="72" text="must"/>
+    <syllable type="golden" start="20180" length="120" note="67" text="be"/>
+    <syllable type="normal" start="20420" length="120" note="69" text="some"/>
+    <syllable type="normal" start="20660" length="120" note="69" text="thing"/>
+    <syllable type="normal" start="20900" length="120" note="67" text="in"/>
+    <syllable type="normal" start="21140" length="120" note="65" text="the"/>
+    <syllable type="normal" start="21380" length="360" note="67" text="wa"/>
+    <syllable type="normal" start="21860" length="360" note="62" text="ter"/>
+    <end value="22340"/>
+  </line>
+  <line>
+    <start value="22340"/>
+    <syllable type="normal" start="24260" length="120" note="72" text="Sip"/>
+    <syllable type="normal" start="24500" length="120" note="67" text="pin'"/>
+    <syllable type="normal" start="24740" length="120" note="69" text="~"/>
+    <syllable type="normal" start="25460" length="120" note="69" text="gin"/>
+    <syllable type="normal" start="25700" length="120" note="67" text="and"/>
+    <syllable type="normal" start="25940" length="360" note="65" text="juice"/>
+    <end value="26420"/>
+  </line>
+  <line>
+    <start value="26420"/>
+    <syllable type="normal" start="27620" length="120" note="65" text="Lay"/>
+    <syllable type="normal" start="27860" length="120" note="67" text="ing"/>
+    <syllable type="normal" start="28100" length="120" note="69" text="un"/>
+    <syllable type="normal" start="28340" length="120" note="69" text="der"/>
+    <syllable type="normal" start="28580" length="120" note="67" text="neath"/>
+    <syllable type="normal" start="28820" length="120" note="65" text="the"/>
+    <syllable type="golden" start="29060" length="360" note="67" text="palm"/>
+    <syllable type="normal" start="29540" length="360" note="62" text="trees"/>
+    <end value="30020"/>
+  </line>
+  <line>
+    <start value="30020"/>
+    <syllable type="normal" start="31700" length="120" note="65" text="The"/>
+    <syllable type="normal" start="31940" length="120" note="69" text="boys"/>
+    <syllable type="normal" start="32180" length="120" note="69" text="~"/>
+    <syllable type="normal" start="33140" length="120" note="69" text="break"/>
+    <syllable type="normal" start="33380" length="120" note="67" text="their"/>
+    <syllable type="normal" start="33620" length="480" note="65" text="necks"/>
+    <end value="34220"/>
+  </line>
+  <line>
+    <start value="34220"/>
+    <syllable type="normal" start="35300" length="120" note="65" text="Try"/>
+    <syllable type="normal" start="35540" length="120" note="67" text="ing"/>
+    <syllable type="normal" start="35780" length="120" note="69" text="to"/>
+    <syllable type="normal" start="36020" length="120" note="69" text="a"/>
+    <syllable type="normal" start="36260" length="120" note="67" text="lit"/>
+    <syllable type="normal" start="36500" length="120" note="65" text="tle"/>
+    <syllable type="normal" start="36740" length="360" note="67" text="sneak"/>
+    <syllable type="normal" start="37220" length="360" note="62" text="peek"/>
+    <end value="37700"/>
+  </line>
+  <line>
+    <start value="37700"/>
+    <syllable type="normal" start="40100" length="120" note="72" text="You"/>
+    <syllable type="normal" start="40340" length="120" note="72" text="can"/>
+    <syllable type="normal" start="40580" length="120" note="72" text="tra"/>
+    <syllable type="normal" start="40820" length="120" note="70" text="vel"/>
+    <syllable type="normal" start="41060" length="120" note="69" text="the"/>
+    <syllable type="golden" start="41300" length="360" note="67" text="world"/>
+    <syllable type="normal" start="41780" length="600" note="69" text="~"/>
+    <end value="42500"/>
+  </line>
+  <line>
+    <start value="42500"/>
+    <syllable type="normal" start="43220" length="120" note="65" text="But"/>
+    <syllable type="normal" start="43460" length="120" note="74" text="no"/>
+    <syllable type="normal" start="43700" length="120" note="74" text="thing"/>
+    <syllable type="normal" start="43940" length="240" note="72" text="comes"/>
+    <syllable type="normal" start="44420" length="360" note="69" text="close"/>
+    <end value="44840"/>
+  </line>
+  <line>
+    <start value="44840"/>
+    <syllable type="normal" start="44900" length="120" note="65" text="To"/>
+    <syllable type="normal" start="45140" length="120" note="65" text="the"/>
+    <syllable type="normal" start="45380" length="360" note="74" text="gol"/>
+    <syllable type="normal" start="45860" length="120" note="72" text="den"/>
+    <syllable type="golden" start="46340" length="360" note="69" text="coast"/>
+    <syllable type="normal" start="46820" length="360" note="67" text="~"/>
+    <end value="47300"/>
+  </line>
+  <line>
+    <start value="47300"/>
+    <syllable type="normal" start="47780" length="120" note="72" text="Once"/>
+    <syllable type="normal" start="48020" length="120" note="72" text="you"/>
+    <syllable type="normal" start="48260" length="120" note="72" text="par"/>
+    <syllable type="normal" start="48500" length="120" note="70" text="ty"/>
+    <syllable type="normal" start="48740" length="120" note="69" text="with"/>
+    <syllable type="normal" start="48980" length="240" note="67" text="us"/>
+    <syllable type="normal" start="49460" length="600" note="69" text="~"/>
+    <end value="50180"/>
+  </line>
+  <line>
+    <start value="50180"/>
+    <syllable type="normal" start="50660" length="120" note="65" text="You'll"/>
+    <syllable type="normal" start="50900" length="120" note="65" text="be"/>
+    <syllable type="normal" start="51140" length="120" note="74" text="fal"/>
+    <syllable type="normal" start="51380" length="120" note="74" text="lin'"/>
+    <syllable type="normal" start="51620" length="120" note="72" text="in"/>
+    <syllable type="normal" start="51860" length="120" note="69" text="~"/>
+    <syllable type="normal" start="52100" length="360" note="69" text="love"/>
+    <end value="52580"/>
+  </line>
+  <line>
+    <start value="52580"/>
+    <syllable type="normal" start="52820" length="120" note="69" text="Ooh"/>
+    <syllable type="normal" start="53300" length="120" note="72" text="~"/>
+    <syllable type="golden" start="53540" length="120" note="69" text="~"/>
+    <syllable type="normal" start="53780" length="120" note="72" text="~"/>
+    <syllable type="normal" start="54020" length="120" note="69" text="~"/>
+    <syllable type="normal" start="54260" length="120" note="72" text="~"/>
+    <syllable type="normal" start="54500" length="240" note="69" text="~"/>
+    <end value="54860"/>
+  </line>
+  <line>
+    <start value="54860"/>
+    <syllable type="normal" start="54980" length="360" note="65" text="Ca"/>
+    <syllable type="normal" start="55460" length="240" note="65" text="li"/>
+    <syllable type="normal" start="55940" length="240" note="65" text="for"/>
+    <syllable type="normal" start="56420" length="120" note="65" text="nia"/>
+    <syllable type="normal" start="56660" length="360" note="65" text="girls"/>
+    <end value="57080"/>
+  </line>
+  <line>
+    <start value="57080"/>
+    <syllable type="normal" start="57140" length="120" note="62" text="We're"/>
+    <syllable type="normal" start="57380" length="120" note="65" text="un"/>
+    <syllable type="normal" start="57620" length="120" note="67" text="for"/>
+    <syllable type="golden" start="57860" length="240" note="69" text="get"/>
+    <syllable type="normal" start="58340" length="240" note="65" text="table"/>
+    <end value="58700"/>
+  </line>
+  <line>
+    <start value="58700"/>
+    <syllable type="normal" start="58820" length="360" note="65" text="Dai"/>
+    <syllable type="normal" start="59300" length="240" note="65" text="sy"/>
+    <syllable type="normal" start="59780" length="240" note="65" text="dukes"/>
+    <end value="60140"/>
+  </line>
+  <line>
+    <start value="60140"/>
+    <syllable type="normal" start="60260" length="120" note="65" text="Bi"/>
+    <syllable type="normal" start="60500" length="360" note="60" text="ki"/>
+    <syllable type="normal" start="60980" length="120" note="60" text="nis"/>
+    <syllable type="normal" start="61220" length="240" note="67" text="on"/>
+    <syllable type="normal" start="61700" length="480" note="65" text="top"/>
+    <end value="62300"/>
+  </line>
+  <line>
+    <start value="62300"/>
+    <syllable type="normal" start="62660" length="120" note="65" text="Sun"/>
+    <syllable type="golden" start="63140" length="120" note="65" text="kissed"/>
+    <syllable type="normal" start="63620" length="120" note="65" text="skin"/>
+    <syllable type="normal" start="64100" length="120" note="65" text="so"/>
+    <syllable type="normal" start="64340" length="120" note="65" text="hot"/>
+    <end value="64580"/>
+  </line>
+  <line>
+    <start value="64580"/>
+    <syllable type="normal" start="64820" length="120" note="62" text="We'll"/>
+    <syllable type="normal" start="65060" length="120" note="65" text="melt"/>
+    <syllable type="normal" start="65300" length="120" note="67" text="your"/>
+    <syllable type="normal" start="65540" length="120" note="69" text="pop"/>
+    <syllable type="normal" start="65780" length="120" note="69" text="sic"/>
+    <syllable type="normal" start="66020" length="360" note="65" text="le"/>
+    <end value="66500"/>
+  </line>
+  <line>
+    <start value="66500"/>
+    <syllable type="normal" start="66740" length="120" note="72" text="Ooh"/>
+    <syllable type="normal" start="66980" length="120" note="69" text="~"/>
+    <syllable type="normal" start="67220" length="120" note="72" text="~"/>
+    <syllable type="golden" start="67460" length="120" note="69" text="~"/>
+    <syllable type="normal" start="67700" length="120" note="72" text="~"/>
+    <syllable type="normal" start="67940" length="120" note="69" text="~"/>
+    <syllable type="normal" start="68180" length="240" note="69" text="Oh"/>
+    <end value="68540"/>
+  </line>
+  <line>
+    <start value="68540"/>
+    <syllable type="normal" start="68660" length="120" note="72" text="Ooh"/>
+    <syllable type="normal" start="68900" length="120" note="69" text="~"/>
+    <syllable type="normal" start="69140" length="120" note="72" text="~"/>
+    <syllable type="normal" start="69380" length="120" note="69" text="~"/>
+    <syllable type="normal" start="69620" length="120" note="72" text="~"/>
+    <syllable type="normal" start="69860" length="360" note="69" text="~"/>
+    <end value="70280"/>
+  </line>
+  <line>
+    <start value="70280"/>
+    <syllable type="normal" start="70340" length="360" note="65" text="Ca"/>
+    <syllable type="normal" start="70820" length="240" note="65" text="li"/>
+    <syllable type="normal" start="71300" length="240" note="65" text="for"/>
+    <syllable type="normal" start="71780" length="120" note="65" text="nia"/>
+    <syllable type="normal" start="72020" length="360" note="65" text="girls"/>
+    <end value="72440"/>
+  </line>
+  <line>
+    <start value="72440"/>
+    <syllable type="normal" start="72500" length="120" note="62" text="We're"/>
+    <syllable type="normal" start="72740" length="120" note="65" text="un"/>
+    <syllable type="golden" start="72980" length="120" note="67" text="de"/>
+    <syllable type="normal" start="73220" length="360" note="69" text="nia"/>
+    <syllable type="normal" start="73700" length="240" note="65" text="ble"/>
+    <end value="74060"/>
+  </line>
+  <line>
+    <start value="74060"/>
+    <syllable type="normal" start="74180" length="240" note="65" text="Fine,"/>
+    <syllable type="normal" start="74660" length="240" note="65" text="fresh,"/>
+    <syllable type="normal" start="75140" length="240" note="65" text="fierce"/>
+    <end value="75500"/>
+  </line>
+  <line>
+    <start value="75500"/>
+    <syllable type="normal" start="75620" length="120" note="65" text="We"/>
+    <syllable type="normal" start="75860" length="360" note="60" text="got"/>
+    <syllable type="golden" start="76340" length="120" note="60" text="it"/>
+    <syllable type="normal" start="76580" length="240" note="67" text="on"/>
+    <syllable type="normal" start="77060" length="360" note="65" text="lock"/>
+    <end value="77540"/>
+  </line>
+  <line>
+    <start value="77540"/>
+    <syllable type="normal" start="78020" length="240" note="65" text="West"/>
+    <syllable type="normal" start="78500" length="240" note="65" text="coast"/>
+    <syllable type="normal" start="78980" length="240" note="65" text="re"/>
+    <syllable type="normal" start="79460" length="120" note="65" text="pre"/>
+    <syllable type="normal" start="79700" length="120" note="65" text="sent"/>
+    <end value="79940"/>
+  </line>
+  <line>
+    <start value="79940"/>
+    <syllable type="normal" start="80180" length="120" note="62" text="Now"/>
+    <syllable type="normal" start="80420" length="120" note="65" text="put"/>
+    <syllable type="normal" start="80660" length="120" note="67" text="your"/>
+    <syllable type="golden" start="80900" length="240" note="69" text="hands"/>
+    <syllable type="normal" start="81380" length="360" note="65" text="up"/>
+    <end value="81860"/>
+  </line>
+  <line>
+    <start value="81860"/>
+    <syllable type="normal" start="82100" length="120" note="72" text="Ooh"/>
+    <syllable type="normal" start="82340" length="120" note="69" text="~"/>
+    <syllable type="normal" start="82580" length="120" note="72" text="~"/>
+    <syllable type="normal" start="82820" length="120" note="69" text="~"/>
+    <syllable type="normal" start="83060" length="120" note="72" text="~"/>
+    <syllable type="normal" start="83300" length="120" note="69" text="~"/>
+    <syllable type="normal" start="83540" length="240" note="69" text="Oh"/>
+    <end value="83900"/>
+  </line>
+  <line>
+    <start value="83900"/>
+    <syllable type="normal" start="84020" length="120" note="72" text="Ooh"/>
+    <syllable type="normal" start="84260" length="120" note="69" text="~"/>
+    <syllable type="normal" start="84500" length="120" note="72" text="~"/>
+    <syllable type="golden" start="84740" length="120" note="69" text="~"/>
+    <syllable type="normal" start="84980" length="120" note="72" text="~"/>
+    <syllable type="normal" start="85220" length="480" note="69" text="~"/>
+    <end value="85700"/>
+  </line>
+  <line>
+    <start value="85700"/>
+    <syllable type="normal" start="85700" length="360" note="69" text="Sex"/>
+    <syllable type="normal" start="86900" length="120" note="69" text="on"/>
+    <syllable type="normal" start="87140" length="120" note="67" text="the"/>
+    <syllable type="normal" start="87380" length="360" note="65" text="beach"/>
+    <end value="87860"/>
+  </line>
+  <line>
+    <start value="87860"/>
+    <syllable type="normal" start="88820" length="120" note="62" text="We"/>
+    <syllable type="normal" start="89060" length="120" note="65" text="get"/>
+    <syllable type="normal" start="89300" length="120" note="67" text="my"/>
+    <syllable type="normal" start="89540" length="120" note="69" text="sand"/>
+    <syllable type="normal" start="89780" length="120" note="69" text="in"/>
+    <syllable type="normal" start="90020" length="120" note="67" text="our"/>
+    <syllable type="normal" start="90260" length="120" note="65" text="sti"/>
+    <syllable type="normal" start="90500" length="360" note="67" text="let"/>
+    <syllable type="normal" start="90980" length="360" note="62" text="tos"/>
+    <end value="91460"/>
+  </line>
+  <line>
+    <start value="91460"/>
+    <syllable type="normal" start="93140" length="120" note="65" text="We"/>
+    <syllable type="normal" start="93380" length="120" note="72" text="freak"/>
+    <syllable type="golden" start="93620" length="120" note="69" text="~"/>
+    <syllable type="normal" start="93860" length="120" note="69" text="~"/>
+    <syllable type="normal" start="94580" length="120" note="67" text="in"/>
+    <syllable type="normal" start="94820" length="120" note="65" text="my"/>
+    <syllable type="normal" start="95060" length="360" note="65" text="jeep"/>
+    <end value="95540"/>
+  </line>
+  <line>
+    <start value="95540"/>
+    <syllable type="normal" start="96500" length="120" note="62" text="Snoop"/>
+    <syllable type="normal" start="96740" length="120" note="65" text="Dog"/>
+    <syllable type="normal" start="96980" length="120" note="67" text="gy"/>
+    <syllable type="normal" start="97220" length="360" note="69" text="Dogg"/>
+    <syllable type="normal" start="97700" length="120" note="67" text="on"/>
+    <syllable type="normal" start="97940" length="120" note="65" text="the"/>
+    <syllable type="normal" start="98180" length="120" note="67" text="ste"/>
+    <syllable type="normal" start="98420" length="120" note="67" text="re"/>
+    <syllable type="normal" start="98660" length="360" note="62" text="o"/>
+    <end value="99140"/>
+  </line>
+  <line>
+    <start value="99140"/>
+    <syllable type="normal" start="101540" length="120" note="72" text="You"/>
+    <syllable type="normal" start="101780" length="120" note="72" text="can"/>
+    <syllable type="normal" start="102020" length="120" note="72" text="tra"/>
+    <syllable type="normal" start="102260" length="120" note="70" text="vel"/>
+    <syllable type="normal" start="102500" length="120" note="69" text="the"/>
+    <syllable type="normal" start="102740" length="360" note="67" text="world"/>
+    <syllable type="normal" start="103220" length="600" note="69" text="~"/>
+    <end value="103940"/>
+  </line>
+  <line>
+    <start value="103940"/>
+    <syllable type="normal" start="104660" length="120" note="65" text="But"/>
+    <syllable type="normal" start="104900" length="120" note="74" text="no"/>
+    <syllable type="normal" start="105140" length="120" note="74" text="thing"/>
+    <syllable type="golden" start="105380" length="240" note="72" text="comes"/>
+    <syllable type="normal" start="105860" length="360" note="69" text="close"/>
+    <end value="106280"/>
+  </line>
+  <line>
+    <start value="106280"/>
+    <syllable type="normal" start="106340" length="120" note="65" text="To"/>
+    <syllable type="normal" start="106580" length="120" note="65" text="the"/>
+    <syllable type="normal" start="106820" length="360" note="74" text="gol"/>
+    <syllable type="normal" start="107300" length="120" note="72" text="den"/>
+    <syllable type="normal" start="107780" length="360" note="69" text="coast"/>
+    <syllable type="normal" start="108260" length="360" note="67" text="~"/>
+    <end value="108740"/>
+  </line>
+  <line>
+    <start value="108740"/>
+    <syllable type="normal" start="109220" length="120" note="72" text="Once"/>
+    <syllable type="normal" start="109460" length="120" note="72" text="you"/>
+    <syllable type="normal" start="109700" length="120" note="72" text="par"/>
+    <syllable type="normal" start="109940" length="120" note="70" text="ty"/>
+    <syllable type="normal" start="110180" length="120" note="69" text="with"/>
+    <syllable type="normal" start="110420" length="240" note="67" text="us"/>
+    <syllable type="normal" start="110900" length="600" note="69" text="~"/>
+    <end value="111620"/>
+  </line>
+  <line>
+    <start value="111620"/>
+    <syllable type="normal" start="112100" length="120" note="65" text="You'll"/>
+    <syllable type="normal" start="112340" length="120" note="65" text="be"/>
+    <syllable type="golden" start="112580" length="120" note="74" text="fal"/>
+    <syllable type="normal" start="112820" length="120" note="74" text="lin'"/>
+    <syllable type="normal" start="113060" length="120" note="72" text="in"/>
+    <syllable type="normal" start="113300" length="120" note="69" text="~"/>
+    <syllable type="normal" start="113540" length="360" note="69" text="love"/>
+    <end value="114020"/>
+  </line>
+  <line>
+    <start value="114020"/>
+    <syllable type="normal" start="114260" length="120" note="69" text="Ooh"/>
+    <syllable type="normal" start="114740" length="120" note="72" text="~"/>
+    <syllable type="normal" start="114980" length="120" note="69" text="~"/>
+    <syllable type="normal" start="115220" length="120" note="72" text="~"/>
+    <syllable type="normal" start="115460" length="120" note="69" text="~"/>
+    <syllable type="normal" start="115700" length="120" note="72" text="~"/>
+    <syllable type="normal" start="115940" length="240" note="69" text="~"/>
+    <end value="116300"/>
+  </line>
+  <line>
+    <start value="116300"/>
+    <syllable type="normal" start="116420" length="360" note="65" text="Ca"/>
+    <syllable type="normal" start="116900" length="240" note="65" text="li"/>
+    <syllable type="golden" start="117380" length="240" note="65" text="for"/>
+    <syllable type="normal" start="117860" length="120" note="65" text="nia"/>
+    <syllable type="normal" start="118100" length="360" note="65" text="girls"/>
+    <end value="118520"/>
+  </line>
+  <line>
+    <start value="118520"/>
+    <syllable type="normal" start="118580" length="120" note="62" text="We're"/>
+    <syllable type="normal" start="118820" length="120" note="65" text="un"/>
+    <syllable type="normal" start="119060" length="120" note="67" text="for"/>
+    <syllable type="normal" start="119300" length="240" note="69" text="get"/>
+    <syllable type="normal" start="119780" length="240" note="65" text="table"/>
+    <end value="120140"/>
+  </line>
+  <line>
+    <start value="120140"/>
+    <syllable type="normal" start="120260" length="360" note="65" text="Dai"/>
+    <syllable type="normal" start="120740" length="240" note="65" text="sy"/>
+    <syllable type="normal" start="121220" length="240" note="65" text="dukes"/>
+    <end value="121580"/>
+  </line>
+  <line>
+    <start value="121580"/>
+    <syllable type="normal" start="121700" length="120" note="65" text="Bi"/>
+    <syllable type="golden" start="121940" length="360" note="60" text="ki"/>
+    <syllable type="normal" start="122420" length="120" note="60" text="nis"/>
+    <syllable type="normal" start="122660" length="240" note="67" text="on"/>
+    <syllable type="normal" start="123140" length="360" note="65" text="top"/>
+    <end value="123620"/>
+  </line>
+  <line>
+    <start value="123620"/>
+    <syllable type="normal" start="124100" length="120" note="65" text="Sun"/>
+    <syllable type="normal" start="124580" length="120" note="65" text="kissed"/>
+    <syllable type="normal" start="125060" length="120" note="65" text="skin"/>
+    <syllable type="normal" start="125540" length="120" note="65" text="so"/>
+    <syllable type="normal" start="125780" length="120" note="65" text="hot"/>
+    <end value="126020"/>
+  </line>
+  <line>
+    <start value="126020"/>
+    <syllable type="normal" start="126260" length="120" note="62" text="Will"/>
+    <syllable type="normal" start="126500" length="120" note="65" text="melt"/>
+    <syllable type="normal" start="126740" length="120" note="67" text="your"/>
+    <syllable type="normal" start="126980" length="120" note="69" text="pop"/>
+    <syllable type="normal" start="127220" length="120" note="69" text="sic"/>
+    <syllable type="normal" start="127460" length="360" note="65" text="le"/>
+    <end value="127940"/>
+  </line>
+  <line>
+    <start value="127940"/>
+    <syllable type="normal" start="128180" length="120" note="72" text="Ooh"/>
+    <syllable type="normal" start="128420" length="120" note="69" text="~"/>
+    <syllable type="normal" start="128660" length="120" note="72" text="~"/>
+    <syllable type="normal" start="128900" length="120" note="69" text="~"/>
+    <syllable type="normal" start="129140" length="120" note="72" text="~"/>
+    <syllable type="normal" start="129380" length="120" note="69" text="~"/>
+    <syllable type="normal" start="129620" length="240" note="69" text="Oh"/>
+    <end value="129980"/>
+  </line>
+  <line>
+    <start value="129980"/>
+    <syllable type="normal" start="130100" length="120" note="72" text="Ooh"/>
+    <syllable type="normal" start="130340" length="120" note="69" text="~"/>
+    <syllable type="normal" start="130580" length="120" note="72" text="~"/>
+    <syllable type="normal" start="130820" length="120" note="69" text="~"/>
+    <syllable type="normal" start="131060" length="120" note="72" text="~"/>
+    <syllable type="normal" start="131300" length="480" note="69" text="~"/>
+    <end value="131780"/>
+  </line>
+  <line>
+    <start value="131780"/>
+    <syllable type="normal" start="131780" length="360" note="65" text="Ca"/>
+    <syllable type="normal" start="132260" length="240" note="65" text="li"/>
+    <syllable type="normal" start="132740" length="240" note="65" text="for"/>
+    <syllable type="normal" start="133220" length="120" note="65" text="nia"/>
+    <syllable type="normal" start="133460" length="360" note="65" text="girls"/>
+    <end value="133880"/>
+  </line>
+  <line>
+    <start value="133880"/>
+    <syllable type="normal" start="133940" length="120" note="62" text="We're"/>
+    <syllable type="normal" start="134180" length="120" note="65" text="un"/>
+    <syllable type="normal" start="134420" length="120" note="67" text="de"/>
+    <syllable type="golden" start="134660" length="360" note="69" text="nia"/>
+    <syllable type="normal" start="135140" length="360" note="65" text="ble"/>
+    <end value="135560"/>
+  </line>
+  <line>
+    <start value="135560"/>
+    <syllable type="normal" start="135620" length="240" note="65" text="Fine,"/>
+    <syllable type="normal" start="136100" length="240" note="65" text="fresh,"/>
+    <syllable type="normal" start="136580" length="240" note="65" text="fierce"/>
+    <end value="136940"/>
+  </line>
+  <line>
+    <start value="136940"/>
+    <syllable type="normal" start="137060" length="120" note="65" text="We"/>
+    <syllable type="normal" start="137300" length="360" note="60" text="got"/>
+    <syllable type="normal" start="137780" length="120" note="60" text="it"/>
+    <syllable type="normal" start="138020" length="240" note="67" text="on"/>
+    <syllable type="normal" start="138500" length="360" note="65" text="lock"/>
+    <end value="138980"/>
+  </line>
+  <line>
+    <start value="138980"/>
+    <syllable type="normal" start="139460" length="240" note="65" text="West"/>
+    <syllable type="normal" start="139940" length="240" note="65" text="coast"/>
+    <syllable type="normal" start="140420" length="240" note="65" text="re"/>
+    <syllable type="normal" start="140900" length="120" note="65" text="pre"/>
+    <syllable type="normal" start="141140" length="120" note="65" text="sent"/>
+    <end value="141380"/>
+  </line>
+  <line>
+    <start value="141380"/>
+    <syllable type="normal" start="141620" length="120" note="62" text="Now"/>
+    <syllable type="normal" start="141860" length="120" note="65" text="put"/>
+    <syllable type="normal" start="142100" length="120" note="67" text="your"/>
+    <syllable type="normal" start="142340" length="360" note="69" text="hands"/>
+    <syllable type="normal" start="142820" length="360" note="65" text="up"/>
+    <end value="143300"/>
+  </line>
+  <line>
+    <start value="143300"/>
+    <syllable type="normal" start="143540" length="120" note="72" text="Ooh"/>
+    <syllable type="normal" start="143780" length="120" note="69" text="~"/>
+    <syllable type="normal" start="144020" length="120" note="72" text="~"/>
+    <syllable type="normal" start="144260" length="120" note="69" text="~"/>
+    <syllable type="normal" start="144500" length="120" note="72" text="~"/>
+    <syllable type="normal" start="144740" length="120" note="69" text="~"/>
+    <syllable type="normal" start="144980" length="240" note="69" text="Oh"/>
+    <end value="145340"/>
+  </line>
+  <line>
+    <start value="145340"/>
+    <syllable type="normal" start="145460" length="120" note="72" text="Ooh"/>
+    <syllable type="golden" start="145700" length="120" note="69" text="~"/>
+    <syllable type="normal" start="145940" length="120" note="72" text="~"/>
+    <syllable type="normal" start="146180" length="120" note="69" text="~"/>
+    <syllable type="normal" start="146420" length="120" note="72" text="~"/>
+    <syllable type="normal" start="146660" length="360" note="69" text="~"/>
+    <end value="147080"/>
+  </line>
+  <line>
+    <start value="147080"/>
+    <syllable type="free" start="147140" length="0" note="60" text="Snoop"/>
+    <end value="184700"/>
+  </line>
+  <line>
+    <start value="184700"/>
+    <syllable type="normal" start="185540" length="360" note="65" text="Ca"/>
+    <syllable type="normal" start="186020" length="240" note="65" text="li"/>
+    <syllable type="normal" start="186500" length="240" note="65" text="for"/>
+    <syllable type="normal" start="186980" length="120" note="65" text="nia"/>
+    <syllable type="normal" start="187220" length="360" note="65" text="girls"/>
+    <end value="187640"/>
+  </line>
+  <line>
+    <start value="187640"/>
+    <syllable type="normal" start="187700" length="120" note="62" text="We're"/>
+    <syllable type="normal" start="187940" length="120" note="65" text="un"/>
+    <syllable type="normal" start="188180" length="120" note="67" text="for"/>
+    <syllable type="normal" start="188420" length="360" note="69" text="get"/>
+    <syllable type="normal" start="188900" length="240" note="65" text="table"/>
+    <end value="189260"/>
+  </line>
+  <line>
+    <start value="189260"/>
+    <syllable type="normal" start="189380" length="360" note="65" text="Dai"/>
+    <syllable type="golden" start="189860" length="240" note="65" text="sy"/>
+    <syllable type="normal" start="190340" length="240" note="65" text="dukes"/>
+    <end value="190700"/>
+  </line>
+  <line>
+    <start value="190700"/>
+    <syllable type="normal" start="190820" length="120" note="65" text="Bi"/>
+    <syllable type="normal" start="191060" length="360" note="60" text="ki"/>
+    <syllable type="normal" start="191540" length="120" note="60" text="nis"/>
+    <syllable type="normal" start="191780" length="240" note="67" text="on"/>
+    <syllable type="normal" start="192260" length="360" note="65" text="top"/>
+    <end value="192740"/>
+  </line>
+  <line>
+    <start value="192740"/>
+    <syllable type="normal" start="193220" length="120" note="65" text="Sun"/>
+    <syllable type="normal" start="193700" length="120" note="65" text="kissed"/>
+    <syllable type="normal" start="194180" length="120" note="65" text="skin"/>
+    <syllable type="normal" start="194660" length="120" note="65" text="so"/>
+    <syllable type="normal" start="194900" length="120" note="65" text="hot"/>
+    <end value="195140"/>
+  </line>
+  <line>
+    <start value="195140"/>
+    <syllable type="normal" start="195380" length="120" note="62" text="Will"/>
+    <syllable type="normal" start="195620" length="120" note="65" text="melt"/>
+    <syllable type="normal" start="195860" length="120" note="67" text="your"/>
+    <syllable type="normal" start="196100" length="120" note="69" text="pop"/>
+    <syllable type="normal" start="196340" length="120" note="69" text="sic"/>
+    <syllable type="normal" start="196580" length="360" note="65" text="le"/>
+    <end value="197060"/>
+  </line>
+  <line>
+    <start value="197060"/>
+    <syllable type="normal" start="197300" length="120" note="72" text="Ooh"/>
+    <syllable type="normal" start="197540" length="120" note="69" text="~"/>
+    <syllable type="golden" start="197780" length="120" note="72" text="~"/>
+    <syllable type="normal" start="198020" length="120" note="69" text="~"/>
+    <syllable type="normal" start="198260" length="120" note="72" text="~"/>
+    <syllable type="normal" start="198500" length="120" note="69" text="~"/>
+    <syllable type="normal" start="198740" length="240" note="69" text="Oh"/>
+    <end value="199100"/>
+  </line>
+  <line>
+    <start value="199100"/>
+    <syllable type="normal" start="199220" length="120" note="72" text="Ooh"/>
+    <syllable type="normal" start="199460" length="120" note="69" text="~"/>
+    <syllable type="normal" start="199700" length="120" note="72" text="~"/>
+    <syllable type="normal" start="199940" length="120" note="69" text="~"/>
+    <syllable type="normal" start="200180" length="120" note="72" text="~"/>
+    <syllable type="normal" start="200420" length="480" note="69" text="~"/>
+    <end value="200900"/>
+  </line>
+  <line>
+    <start value="200900"/>
+    <syllable type="normal" start="200900" length="360" note="65" text="Ca"/>
+    <syllable type="normal" start="201380" length="240" note="65" text="li"/>
+    <syllable type="normal" start="201860" length="240" note="65" text="for"/>
+    <syllable type="normal" start="202340" length="120" note="65" text="nia"/>
+    <syllable type="normal" start="202580" length="360" note="65" text="girls"/>
+    <end value="203000"/>
+  </line>
+  <line>
+    <start value="203000"/>
+    <syllable type="normal" start="203060" length="120" note="62" text="We're"/>
+    <syllable type="normal" start="203300" length="120" note="65" text="un"/>
+    <syllable type="normal" start="203540" length="120" note="67" text="de"/>
+    <syllable type="normal" start="203780" length="360" note="69" text="nia"/>
+    <syllable type="normal" start="204260" length="240" note="65" text="ble"/>
+    <end value="204620"/>
+  </line>
+  <line>
+    <start value="204620"/>
+    <syllable type="normal" start="204740" length="240" note="65" text="Fine,"/>
+    <syllable type="normal" start="205220" length="240" note="65" text="fresh,"/>
+    <syllable type="normal" start="205700" length="240" note="65" text="fierce"/>
+    <end value="206060"/>
+  </line>
+  <line>
+    <start value="206060"/>
+    <syllable type="normal" start="206180" length="120" note="65" text="We"/>
+    <syllable type="normal" start="206420" length="360" note="60" text="got"/>
+    <syllable type="normal" start="206900" length="120" note="60" text="it"/>
+    <syllable type="normal" start="207140" length="240" note="67" text="on"/>
+    <syllable type="normal" start="207620" length="360" note="65" text="lock"/>
+    <end value="208100"/>
+  </line>
+  <line>
+    <start value="208100"/>
+    <syllable type="normal" start="208580" length="240" note="65" text="West"/>
+    <syllable type="normal" start="209060" length="240" note="65" text="coast"/>
+    <syllable type="golden" start="209540" length="240" note="65" text="re"/>
+    <syllable type="normal" start="210020" length="120" note="65" text="pre"/>
+    <syllable type="normal" start="210260" length="120" note="65" text="sent"/>
+    <end value="210500"/>
+  </line>
+  <line>
+    <start value="210500"/>
+    <syllable type="normal" start="210740" length="120" note="62" text="Now"/>
+    <syllable type="normal" start="210980" length="120" note="65" text="put"/>
+    <syllable type="normal" start="211220" length="120" note="67" text="your"/>
+    <syllable type="normal" start="211460" length="360" note="69" text="hands"/>
+    <syllable type="normal" start="211940" length="360" note="65" text="up"/>
+    <end value="212420"/>
+  </line>
+  <line>
+    <start value="212420"/>
+    <syllable type="normal" start="212660" length="120" note="72" text="Ooh"/>
+    <syllable type="normal" start="212900" length="120" note="69" text="~"/>
+    <syllable type="normal" start="213140" length="120" note="72" text="~"/>
+    <syllable type="normal" start="213380" length="120" note="69" text="~"/>
+    <syllable type="normal" start="213620" length="120" note="72" text="~"/>
+    <syllable type="normal" start="213860" length="120" note="69" text="~"/>
+    <syllable type="normal" start="214100" length="240" note="69" text="Oh"/>
+    <end value="214460"/>
+  </line>
+  <line>
+    <start value="214460"/>
+    <syllable type="normal" start="214580" length="120" note="72" text="Ooh"/>
+    <syllable type="normal" start="214820" length="120" note="69" text="~"/>
+    <syllable type="normal" start="215060" length="120" note="72" text="~"/>
+    <syllable type="normal" start="215300" length="120" note="69" text="~"/>
+    <syllable type="normal" start="215540" length="120" note="72" text="~"/>
+    <syllable type="normal" start="215780" length="360" note="69" text="~"/>
+    <end value="216260"/>
+  </line>
+  <line>
+    <start value="216260"/>
+    <syllable type="normal" start="219140" length="360" note="70" text="Ca"/>
+    <syllable type="golden" start="219620" length="360" note="69" text="li"/>
+    <syllable type="normal" start="220100" length="600" note="67" text="for"/>
+    <syllable type="normal" start="220820" length="600" note="65" text="nia"/>
+    <syllable type="normal" start="221780" length="120" note="62" text="girls"/>
+    <syllable type="normal" start="222020" length="360" note="60" text="~"/>
+    <end value="222500"/>
+  </line>
+  <line>
+    <start value="222500"/>
+    <syllable type="normal" start="222980" length="360" note="70" text="Ca"/>
+    <syllable type="normal" start="223460" length="360" note="69" text="li"/>
+    <syllable type="normal" start="223940" length="600" note="67" text="for"/>
+    <syllable type="normal" start="224660" length="1080" note="65" text="nia"/>
+    <end value="225860"/>
+  </line>
+  <line>
+    <start value="225860"/>
+    <syllable type="normal" start="226820" length="360" note="70" text="Ca"/>
+    <syllable type="normal" start="227300" length="360" note="69" text="li"/>
+    <syllable type="golden" start="227780" length="600" note="67" text="for"/>
+    <syllable type="golden" start="228500" length="600" note="65" text="nia"/>
+    <syllable type="normal" start="229460" length="120" note="62" text="girls"/>
+    <syllable type="normal" start="229700" length="360" note="60" text="~"/>
+    <end value="230560"/>
+  </line>
+</song>

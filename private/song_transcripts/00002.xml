@@ -1,0 +1,739 @@
+<song title="Fallin'" artist="Alicia Keys" noteFrameLength="117.40763932373" meanNote="64">
+  <line>
+    <start value="6105.195"/>
+    <syllable type="normal" start="12210.39" length="352.2229179712" note="74" text="I"/>
+    <syllable type="normal" start="12562.612917971" length="117.40763932373" note="71" text=" keep"/>
+    <syllable type="normal" start="12680.020557295" length="234.81527864746" note="69" text="~"/>
+    <syllable type="normal" start="12914.835835942" length="234.81527864746" note="67" text="on"/>
+    <syllable type="normal" start="13267.058753914" length="234.81527864746" note="69" text=" fall"/>
+    <syllable type="normal" start="13501.874032561" length="234.81527864746" note="67" text="in'"/>
+    <end value="13971.504589856"/>
+  </line>
+  <line>
+    <start value="13971.504589856"/>
+    <syllable type="normal" start="14675.950425798" length="1643.7069505322" note="71" text="In"/>
+    <syllable type="normal" start="16319.657376331" length="117.40763932373" note="69" text="~"/>
+    <syllable type="normal" start="16437.065015654" length="117.40763932373" note="67" text="~"/>
+    <syllable type="normal" start="16554.472654978" length="352.2229179712" note="69" text="~"/>
+    <syllable type="normal" start="16906.695572949" length="117.40763932373" note="67" text="~"/>
+    <syllable type="normal" start="17024.103212273" length="117.40763932373" note="64" text="~"/>
+    <syllable type="normal" start="17141.510851597" length="469.63055729493" note="67" text="~"/>
+    <syllable type="normal" start="17611.141408892" length="352.2229179712" note="64" text="~"/>
+    <syllable type="normal" start="17963.364326863" length="117.40763932373" note="62" text="~"/>
+    <syllable type="normal" start="18080.771966187" length="821.85347526612" note="64" text="~"/>
+    <syllable type="normal" start="18902.625441453" length="117.40763932373" note="62" text="~"/>
+    <syllable type="normal" start="19020.033080776" length="821.85347526612" note="59" text="~"/>
+    <end value="20076.70183469"/>
+  </line>
+  <line>
+    <start value="20076.70183469"/>
+    <syllable type="normal" start="21250.778227927" length="939.26111458986" note="62" text="And"/>
+    <syllable type="normal" start="22190.039342517" length="117.40763932373" note="62" text=" out"/>
+    <syllable type="normal" start="22307.446981841" length="234.81527864746" note="62" text=" of"/>
+    <syllable type="golden" start="22542.262260488" length="1526.2993112085" note="64" text=" love"/>
+    <end value="24303.376850344"/>
+  </line>
+  <line>
+    <start value="24303.376850344"/>
+    <syllable type="normal" start="25360.045604258" length="352.2229179712" note="67" text="With"/>
+    <syllable type="normal" start="25712.268522229" length="352.2229179712" note="64" text="a"/>
+    <syllable type="normal" start="26064.4914402" length="704.44583594239" note="67" text=" you"/>
+    <end value="27003.75255479"/>
+  </line>
+  <line>
+    <start value="27003.75255479"/>
+    <syllable type="normal" start="28412.644226675" length="352.2229179712" note="67" text="Some"/>
+    <syllable type="normal" start="28764.867144646" length="352.2229179712" note="69" text="times"/>
+    <syllable type="normal" start="29117.090062617" length="352.2229179712" note="67" text="~"/>
+    <syllable type="normal" start="29469.312980589" length="234.81527864746" note="67" text="I"/>
+    <syllable type="normal" start="29704.128259236" length="704.44583594239" note="71" text=" love"/>
+    <syllable type="normal" start="30408.574095178" length="234.81527864746" note="71" text=" you"/>
+    <end value="30878.204652473"/>
+  </line>
+  <line>
+    <start value="30878.204652473"/>
+    <syllable type="normal" start="31817.465767063" length="352.2229179712" note="62" text="Some"/>
+    <syllable type="normal" start="32169.688685034" length="352.2229179712" note="62" text="times"/>
+    <syllable type="normal" start="32521.911603006" length="352.2229179712" note="62" text=" you"/>
+    <syllable type="normal" start="32874.134520977" length="352.2229179712" note="62" text=" make"/>
+    <syllable type="normal" start="33226.357438948" length="234.81527864746" note="62" text=" me"/>
+    <syllable type="normal" start="33461.172717595" length="939.26111458986" note="64" text=" blue"/>
+    <end value="34635.249110833"/>
+  </line>
+  <line>
+    <start value="34635.249110833"/>
+    <syllable type="normal" start="35926.733143394" length="352.2229179712" note="64" text="Some"/>
+    <syllable type="normal" start="36278.956061365" length="352.2229179712" note="66" text="times"/>
+    <syllable type="normal" start="36631.178979336" length="352.2229179712" note="64" text=" I"/>
+    <syllable type="normal" start="36983.401897307" length="234.81527864746" note="64" text=" feel"/>
+    <syllable type="normal" start="37218.217175955" length="352.2229179712" note="66" text=" good"/>
+    <syllable type="normal" start="37570.440093926" length="469.63055729493" note="67" text="~"/>
+    <end value="38274.885929868"/>
+  </line>
+  <line>
+    <start value="38274.885929868"/>
+    <syllable type="normal" start="39683.777601753" length="352.2229179712" note="62" text="At"/>
+    <syllable type="normal" start="40036.000519724" length="352.2229179712" note="62" text=" times"/>
+    <syllable type="normal" start="40388.223437696" length="352.2229179712" note="62" text=" I"/>
+    <syllable type="normal" start="40740.446355667" length="352.2229179712" note="62" text=" feel"/>
+    <syllable type="normal" start="41092.669273638" length="1056.6687539136" note="64" text=" used"/>
+    <end value="42384.153306199"/>
+  </line>
+  <line>
+    <start value="42384.153306199"/>
+    <syllable type="normal" start="43793.044978084" length="352.2229179712" note="71" text="Lov"/>
+    <syllable type="normal" start="44145.267896055" length="352.2229179712" note="71" text="in'"/>
+    <syllable type="normal" start="44497.490814026" length="234.81527864746" note="71" text=" you"/>
+    <syllable type="normal" start="44732.306092674" length="234.81527864746" note="71" text=" dar"/>
+    <syllable type="golden" start="44967.121371321" length="352.2229179712" note="69" text="~"/>
+    <syllable type="normal" start="45319.344289292" length="939.26111458986" note="67" text="lin'"/>
+    <end value="46493.42068253"/>
+  </line>
+  <line>
+    <start value="46493.42068253"/>
+    <syllable type="normal" start="47197.866518472" length="352.2229179712" note="64" text="Makes"/>
+    <syllable type="normal" start="47550.089436443" length="352.2229179712" note="67" text=" me"/>
+    <syllable type="normal" start="47902.312354415" length="352.2229179712" note="64" text=" so"/>
+    <syllable type="normal" start="48254.535272386" length="117.40763932373" note="64" text=" con"/>
+    <syllable type="normal" start="48371.942911709" length="234.81527864746" note="62" text="~"/>
+    <syllable type="normal" start="48606.758190357" length="821.85347526612" note="64" text="fused"/>
+    <end value="49663.426944271"/>
+  </line>
+  <line>
+    <start value="49663.426944271"/>
+    <syllable type="normal" start="50367.872780213" length="352.2229179712" note="59" text="I"/>
+    <syllable type="normal" start="50720.095698184" length="234.81527864746" note="62" text="~"/>
+    <syllable type="normal" start="50954.910976832" length="234.81527864746" note="64" text="~"/>
+    <end value="51307.133894803"/>
+  </line>
+  <line>
+    <start value="51307.133894803"/>
+    <syllable type="normal" start="51307.133894803" length="352.2229179712" note="64" text="Keep"/>
+    <syllable type="normal" start="51659.356812774" length="234.81527864746" note="66" text="~"/>
+    <syllable type="normal" start="51894.172091421" length="234.81527864746" note="67" text="on"/>
+    <end value="52246.395009393"/>
+  </line>
+  <line>
+    <start value="52246.395009393"/>
+    <syllable type="normal" start="52246.395009393" length="234.81527864746" note="67" text="Fall"/>
+    <syllable type="normal" start="52481.21028804" length="352.2229179712" note="66" text="~"/>
+    <syllable type="normal" start="52833.433206011" length="352.2229179712" note="64" text="in'"/>
+    <end value="53303.063763306"/>
+  </line>
+  <line>
+    <start value="53303.063763306"/>
+    <syllable type="normal" start="53537.879041954" length="234.81527864746" note="71" text="In"/>
+    <syllable type="normal" start="53772.694320601" length="352.2229179712" note="69" text=" and"/>
+    <syllable type="normal" start="54124.917238572" length="117.40763932373" note="71" text=" out"/>
+    <syllable type="normal" start="54242.324877896" length="234.81527864746" note="69" text="~"/>
+    <syllable type="normal" start="54477.140156544" length="587.03819661866" note="67" text="~"/>
+    <end value="55298.99363181"/>
+  </line>
+  <line>
+    <start value="55298.99363181"/>
+    <syllable type="normal" start="55651.216549781" length="352.2229179712" note="62" text="Of"/>
+    <syllable type="normal" start="56003.439467752" length="704.44583594239" note="64" text=" love"/>
+    <end value="56942.700582342"/>
+  </line>
+  <line>
+    <start value="56942.700582342"/>
+    <syllable type="normal" start="57294.923500313" length="234.81527864746" note="67" text="With"/>
+    <syllable type="normal" start="57529.738778961" length="352.2229179712" note="64" text="a"/>
+    <syllable type="normal" start="57881.961696932" length="234.81527864746" note="67" text=" you"/>
+    <end value="58234.184614903"/>
+  </line>
+  <line>
+    <start value="58234.184614903"/>
+    <syllable type="normal" start="58468.99989355" length="352.2229179712" note="59" text="I"/>
+    <syllable type="normal" start="58821.222811522" length="234.81527864746" note="62" text="~"/>
+    <syllable type="normal" start="59056.038090169" length="352.2229179712" note="64" text="~"/>
+    <syllable type="normal" start="59408.26100814" length="234.81527864746" note="66" text="~"/>
+    <end value="59760.483926111"/>
+  </line>
+  <line>
+    <start value="59760.483926111"/>
+    <syllable type="normal" start="59760.483926111" length="234.81527864746" note="67" text="Ne"/>
+    <syllable type="normal" start="59995.299204759" length="352.2229179712" note="66" text="~"/>
+    <syllable type="normal" start="60347.52212273" length="352.2229179712" note="64" text="ver"/>
+    <end value="60817.152680025"/>
+  </line>
+  <line>
+    <start value="60817.152680025"/>
+    <syllable type="normal" start="61051.967958673" length="234.81527864746" note="71" text="Loved"/>
+    <syllable type="normal" start="61286.78323732" length="352.2229179712" note="69" text=" some"/>
+    <syllable type="normal" start="61639.006155291" length="117.40763932373" note="71" text="one"/>
+    <syllable type="normal" start="61756.413794615" length="117.40763932373" note="69" text="~"/>
+    <syllable type="normal" start="61873.821433939" length="587.03819661866" note="67" text="~"/>
+    <end value="62578.267269881"/>
+  </line>
+  <line>
+    <start value="62578.267269881"/>
+    <syllable type="normal" start="62813.082548528" length="117.40763932373" note="62" text="The"/>
+    <syllable type="normal" start="62930.490187852" length="234.81527864746" note="62" text=" way"/>
+    <syllable type="normal" start="63165.3054665" length="352.2229179712" note="62" text=" that"/>
+    <syllable type="normal" start="63517.528384471" length="704.44583594239" note="64" text=" I"/>
+    <end value="64456.789499061"/>
+  </line>
+  <line>
+    <start value="64456.789499061"/>
+    <syllable type="normal" start="64691.604777708" length="352.2229179712" note="67" text="Love"/>
+    <syllable type="normal" start="65043.827695679" length="352.2229179712" note="64" text="a"/>
+    <syllable type="normal" start="65396.050613651" length="234.81527864746" note="67" text=" you"/>
+    <end value="65748.273531622"/>
+  </line>
+  <line>
+    <start value="65748.273531622"/>
+    <syllable type="normal" start="65983.088810269" length="234.81527864746" note="74" text="Oh"/>
+    <end value="66452.719367564"/>
+  </line>
+  <line>
+    <start value="66452.719367564"/>
+    <syllable type="normal" start="66687.534646212" length="234.81527864746" note="76" text="Oh"/>
+    <end value="67039.757564183"/>
+  </line>
+  <line>
+    <start value="67039.757564183"/>
+    <syllable type="golden" start="67274.57284283" length="469.63055729493" note="76" text="I"/>
+    <syllable type="normal" start="67744.203400125" length="117.40763932373" note="74" text="~"/>
+    <syllable type="normal" start="67861.611039449" length="352.2229179712" note="71" text="~"/>
+    <syllable type="normal" start="68213.83395742" length="117.40763932373" note="71" text="~"/>
+    <syllable type="normal" start="68331.241596744" length="117.40763932373" note="69" text="~"/>
+    <syllable type="normal" start="68448.649236068" length="939.26111458986" note="67" text="~"/>
+    <end value="69505.317989981"/>
+  </line>
+  <line>
+    <start value="69505.317989981"/>
+    <syllable type="normal" start="69740.133268629" length="352.2229179712" note="64" text="Ne"/>
+    <syllable type="normal" start="70092.3561866" length="234.81527864746" note="67" text="ver"/>
+    <syllable type="normal" start="70327.171465247" length="234.81527864746" note="64" text=" felt"/>
+    <syllable type="normal" start="70679.394383219" length="117.40763932373" note="64" text=" this"/>
+    <syllable type="normal" start="70796.802022542" length="117.40763932373" note="62" text="~"/>
+    <end value="71031.61730119"/>
+  </line>
+  <line>
+    <start value="71031.61730119"/>
+    <syllable type="normal" start="71031.61730119" length="469.63055729493" note="64" text="Way"/>
+    <syllable type="normal" start="71501.247858485" length="117.40763932373" note="62" text="~"/>
+    <syllable type="normal" start="71618.655497808" length="117.40763932373" note="64" text="~"/>
+    <syllable type="normal" start="71736.063137132" length="1056.6687539136" note="67" text="~"/>
+    <end value="73027.547169693"/>
+  </line>
+  <line>
+    <start value="73027.547169693"/>
+    <syllable type="normal" start="73497.177726988" length="117.40763932373" note="67" text="How"/>
+    <syllable type="normal" start="73731.993005636" length="117.40763932373" note="69" text=" do"/>
+    <syllable type="normal" start="73849.400644959" length="234.81527864746" note="67" text=" you"/>
+    <syllable type="normal" start="74084.215923607" length="234.81527864746" note="69" text=" give"/>
+    <syllable type="normal" start="74319.031202254" length="234.81527864746" note="69" text=" me"/>
+    <syllable type="normal" start="74553.846480902" length="234.81527864746" note="69" text=" so"/>
+    <syllable type="normal" start="74788.661759549" length="234.81527864746" note="67" text=" much"/>
+    <end value="75140.88467752"/>
+  </line>
+  <line>
+    <start value="75140.88467752"/>
+    <syllable type="normal" start="75140.88467752" length="1174.0763932373" note="71" text="Plea"/>
+    <syllable type="normal" start="76314.961070758" length="234.81527864746" note="71" text="sure"/>
+    <end value="76784.591628053"/>
+  </line>
+  <line>
+    <start value="76784.591628053"/>
+    <syllable type="normal" start="77136.814546024" length="234.81527864746" note="62" text="And"/>
+    <syllable type="normal" start="77371.629824671" length="234.81527864746" note="62" text=" cause"/>
+    <syllable type="normal" start="77606.445103319" length="234.81527864746" note="62" text=" me"/>
+    <syllable type="normal" start="77958.66802129" length="234.81527864746" note="62" text=" so"/>
+    <syllable type="normal" start="78193.483299937" length="234.81527864746" note="62" text=" much"/>
+    <end value="78545.706217909"/>
+  </line>
+  <line>
+    <start value="78545.706217909"/>
+    <syllable type="normal" start="78545.706217909" length="587.03819661866" note="64" text="Pain"/>
+    <syllable type="normal" start="79132.744414527" length="352.2229179712" note="59" text="~"/>
+    <syllable type="normal" start="79484.967332498" length="352.2229179712" note="62" text="~"/>
+    <syllable type="normal" start="79837.19025047" length="234.81527864746" note="64" text="~"/>
+    <syllable type="normal" start="80072.005529117" length="352.2229179712" note="59" text="~"/>
+    <syllable type="normal" start="80424.228447088" length="469.63055729493" note="62" text="~"/>
+    <syllable type="normal" start="80893.859004383" length="352.2229179712" note="64" text="~"/>
+    <end value="81363.489561678"/>
+  </line>
+  <line>
+    <start value="81363.489561678"/>
+    <syllable type="normal" start="81363.489561678" length="352.2229179712" note="71" text="Just"/>
+    <syllable type="normal" start="81715.712479649" length="234.81527864746" note="71" text=" when"/>
+    <syllable type="normal" start="81950.527758297" length="352.2229179712" note="71" text=" I"/>
+    <syllable type="normal" start="82302.750676268" length="234.81527864746" note="71" text=" think"/>
+    <syllable type="normal" start="82537.565954915" length="352.2229179712" note="69" text="~"/>
+    <syllable type="normal" start="82889.788872887" length="939.26111458986" note="67" text="~"/>
+    <end value="84063.865266124"/>
+  </line>
+  <line>
+    <start value="84063.865266124"/>
+    <syllable type="normal" start="84650.903462743" length="117.40763932373" note="64" text="I've"/>
+    <syllable type="normal" start="84768.311102066" length="234.81527864746" note="64" text=" tak"/>
+    <syllable type="normal" start="85003.126380714" length="117.40763932373" note="64" text="en"/>
+    <syllable type="normal" start="85120.534020038" length="352.2229179712" note="67" text=" more"/>
+    <syllable type="normal" start="85472.756938009" length="234.81527864746" note="64" text=" than"/>
+    <end value="85824.97985598"/>
+  </line>
+  <line>
+    <start value="85824.97985598"/>
+    <syllable type="normal" start="85824.97985598" length="117.40763932373" note="64" text="Would"/>
+    <syllable type="normal" start="85942.387495304" length="234.81527864746" note="62" text=" a"/>
+    <syllable type="normal" start="86177.202773951" length="234.81527864746" note="64" text=" fool"/>
+    <syllable type="normal" start="86412.018052599" length="234.81527864746" note="62" text="~"/>
+    <syllable type="normal" start="86646.833331246" length="234.81527864746" note="64" text="~"/>
+    <syllable type="normal" start="86881.648609894" length="821.85347526612" note="67" text="~"/>
+    <end value="87938.317363807"/>
+  </line>
+  <line>
+    <start value="87938.317363807"/>
+    <syllable type="golden" start="88877.578478397" length="234.81527864746" note="74" text="I"/>
+    <syllable type="normal" start="89112.393757044" length="352.2229179712" note="76" text="~"/>
+    <syllable type="normal" start="89464.616675016" length="234.81527864746" note="76" text="start"/>
+    <end value="89816.839592987"/>
+  </line>
+  <line>
+    <start value="89816.839592987"/>
+    <syllable type="normal" start="89816.839592987" length="469.63055729493" note="76" text="Fall"/>
+    <syllable type="normal" start="90286.470150282" length="117.40763932373" note="74" text="~"/>
+    <syllable type="normal" start="90403.877789606" length="352.2229179712" note="71" text="~"/>
+    <syllable type="normal" start="90756.100707577" length="234.81527864746" note="74" text="~"/>
+    <syllable type="normal" start="90990.915986224" length="234.81527864746" note="71" text="~"/>
+    <syllable type="normal" start="91225.731264872" length="117.40763932373" note="71" text="in'-"/>
+    <syllable type="normal" start="91343.138904195" length="821.85347526612" note="69" text="~"/>
+    <end value="92282.400018785"/>
+  </line>
+  <line>
+    <start value="92282.400018785"/>
+    <syllable type="normal" start="92282.400018785" length="352.2229179712" note="62" text="Back"/>
+    <syllable type="normal" start="92634.622936756" length="352.2229179712" note="62" text=" in"/>
+    <syllable type="normal" start="92986.845854728" length="234.81527864746" note="62" text=" love"/>
+    <syllable type="normal" start="93339.068772699" length="352.2229179712" note="62" text=" with"/>
+    <syllable type="normal" start="93691.29169067" length="117.40763932373" note="71" text=" you"/>
+    <syllable type="normal" start="93926.106969317" length="939.26111458986" note="67" text="~"/>
+    <end value="95100.183362555"/>
+  </line>
+  <line>
+    <start value="95100.183362555"/>
+    <syllable type="normal" start="95452.406280526" length="352.2229179712" note="59" text="I"/>
+    <syllable type="normal" start="95804.629198497" length="234.81527864746" note="62" text="~"/>
+    <syllable type="normal" start="96039.444477145" length="234.81527864746" note="64" text="~"/>
+    <end value="96391.667395116"/>
+  </line>
+  <line>
+    <start value="96391.667395116"/>
+    <syllable type="normal" start="96391.667395116" length="352.2229179712" note="64" text="Keep"/>
+    <syllable type="normal" start="96743.890313087" length="234.81527864746" note="66" text="~"/>
+    <syllable type="normal" start="96978.705591734" length="234.81527864746" note="67" text="on"/>
+    <end value="97330.928509706"/>
+  </line>
+  <line>
+    <start value="97330.928509706"/>
+    <syllable type="normal" start="97330.928509706" length="234.81527864746" note="67" text="Fall"/>
+    <syllable type="normal" start="97565.743788353" length="352.2229179712" note="66" text="~"/>
+    <syllable type="normal" start="97917.966706324" length="234.81527864746" note="64" text="in'"/>
+    <end value="98270.189624296"/>
+  </line>
+  <line>
+    <start value="98270.189624296"/>
+    <syllable type="normal" start="98505.004902943" length="352.2229179712" note="71" text="In"/>
+    <syllable type="normal" start="98857.227820914" length="352.2229179712" note="69" text=" and"/>
+    <syllable type="normal" start="99209.450738885" length="117.40763932373" note="71" text=" out"/>
+    <syllable type="normal" start="99326.858378209" length="234.81527864746" note="69" text="~"/>
+    <syllable type="normal" start="99561.673656857" length="587.03819661866" note="67" text="~"/>
+    <end value="100383.52713212"/>
+  </line>
+  <line>
+    <start value="100383.52713212"/>
+    <syllable type="normal" start="100735.75005009" length="352.2229179712" note="62" text="Of"/>
+    <syllable type="normal" start="101087.97296807" length="704.44583594239" note="64" text=" love"/>
+    <end value="102027.23408265"/>
+  </line>
+  <line>
+    <start value="102027.23408265"/>
+    <syllable type="normal" start="102379.45700063" length="234.81527864746" note="67" text="With"/>
+    <syllable type="normal" start="102614.27227927" length="352.2229179712" note="64" text="a"/>
+    <syllable type="golden" start="102966.49519724" length="234.81527864746" note="67" text=" you"/>
+    <end value="103318.71811522"/>
+  </line>
+  <line>
+    <start value="103318.71811522"/>
+    <syllable type="normal" start="103553.53339386" length="352.2229179712" note="59" text="I"/>
+    <syllable type="normal" start="103905.75631183" length="234.81527864746" note="62" text="~"/>
+    <syllable type="normal" start="104140.57159048" length="352.2229179712" note="64" text="~"/>
+    <syllable type="normal" start="104492.79450845" length="234.81527864746" note="66" text="~"/>
+    <end value="104845.01742642"/>
+  </line>
+  <line>
+    <start value="104845.01742642"/>
+    <syllable type="normal" start="104845.01742642" length="234.81527864746" note="67" text="Ne"/>
+    <syllable type="normal" start="105079.83270507" length="352.2229179712" note="66" text="~"/>
+    <syllable type="normal" start="105432.05562304" length="234.81527864746" note="64" text="ver"/>
+    <end value="105901.68618034"/>
+  </line>
+  <line>
+    <start value="105901.68618034"/>
+    <syllable type="normal" start="106136.50145899" length="234.81527864746" note="71" text="Loved"/>
+    <syllable type="normal" start="106371.31673763" length="352.2229179712" note="69" text=" some"/>
+    <syllable type="normal" start="106723.5396556" length="117.40763932373" note="71" text="one"/>
+    <syllable type="normal" start="106840.94729493" length="117.40763932373" note="69" text="~"/>
+    <syllable type="normal" start="106958.35493425" length="587.03819661866" note="67" text="~"/>
+    <end value="107662.80077019"/>
+  </line>
+  <line>
+    <start value="107662.80077019"/>
+    <syllable type="normal" start="107897.61604884" length="117.40763932373" note="62" text="The"/>
+    <syllable type="normal" start="108015.02368817" length="234.81527864746" note="62" text=" way"/>
+    <syllable type="normal" start="108249.83896681" length="352.2229179712" note="62" text=" that"/>
+    <syllable type="normal" start="108602.06188478" length="704.44583594239" note="64" text=" I"/>
+    <end value="109541.32299937"/>
+  </line>
+  <line>
+    <start value="109541.32299937"/>
+    <syllable type="normal" start="109776.13827802" length="352.2229179712" note="67" text="Love"/>
+    <syllable type="normal" start="110128.36119599" length="352.2229179712" note="64" text="a"/>
+    <syllable type="normal" start="110480.58411396" length="352.2229179712" note="67" text=" you"/>
+    <end value="111067.62231058"/>
+  </line>
+  <line>
+    <start value="111067.62231058"/>
+    <syllable type="normal" start="111419.84522855" length="234.81527864746" note="62" text="Oh"/>
+    <syllable type="normal" start="111654.6605072" length="352.2229179712" note="62" text=" ba"/>
+    <syllable type="normal" start="112006.88342517" length="234.81527864746" note="62" text="by"/>
+    <syllable type="normal" start="112359.10634314" length="352.2229179712" note="64" text=" I"/>
+    <end value="112946.14453976"/>
+  </line>
+  <line>
+    <start value="112946.14453976"/>
+    <syllable type="normal" start="113298.36745773" length="352.2229179712" note="67" text="I"/>
+    <end value="113885.40565435"/>
+  </line>
+  <line>
+    <start value="113885.40565435"/>
+    <syllable type="normal" start="114237.62857232" length="469.63055729493" note="62" text="I"/>
+    <end value="114942.07440827"/>
+  </line>
+  <line>
+    <start value="114942.07440827"/>
+    <syllable type="normal" start="115176.88968691" length="587.03819661866" note="66" text="I'm"/>
+    <syllable type="normal" start="116116.1508015" length="939.26111458986" note="67" text=" fall"/>
+    <syllable type="normal" start="117055.41191609" length="939.26111458986" note="64" text="~"/>
+    <syllable type="normal" start="117994.67303068" length="939.26111458986" note="59" text="~"/>
+    <syllable type="normal" start="118933.93414527" length="821.85347526612" note="52" text="in'"/>
+    <end value="119873.19525986"/>
+  </line>
+  <line>
+    <start value="119873.19525986"/>
+    <syllable type="normal" start="119873.19525986" length="469.63055729493" note="64" text="I"/>
+    <end value="120577.6410958"/>
+  </line>
+  <line>
+    <start value="120577.6410958"/>
+    <syllable type="normal" start="120812.45637445" length="352.2229179712" note="67" text="I"/>
+    <end value="121399.49457107"/>
+  </line>
+  <line>
+    <start value="121399.49457107"/>
+    <syllable type="normal" start="121751.71748904" length="352.2229179712" note="62" text="I"/>
+    <end value="122338.75568566"/>
+  </line>
+  <line>
+    <start value="122338.75568566"/>
+    <syllable type="normal" start="122690.97860363" length="469.63055729493" note="66" text="I'm"/>
+    <syllable type="normal" start="123630.23971822" length="939.26111458986" note="67" text=" fall"/>
+    <syllable type="golden" start="124569.50083281" length="939.26111458986" note="64" text="~"/>
+    <syllable type="normal" start="125508.7619474" length="939.26111458986" note="59" text="~"/>
+    <syllable type="normal" start="126448.02306199" length="821.85347526612" note="55" text="in'"/>
+    <end value="127387.28417658"/>
+  </line>
+  <line>
+    <start value="127387.28417658"/>
+    <syllable type="normal" start="127387.28417658" length="587.03819661866" note="71" text="Fall"/>
+    <syllable type="normal" start="127974.3223732" length="234.81527864746" note="69" text="~"/>
+    <syllable type="normal" start="128209.13765185" length="117.40763932373" note="67" text="~"/>
+    <syllable type="normal" start="128326.54529117" length="587.03819661866" note="69" text="~"/>
+    <syllable type="normal" start="128913.58348779" length="117.40763932373" note="67" text="~"/>
+    <end value="129148.39876644"/>
+  </line>
+  <line>
+    <start value="129148.39876644"/>
+    <syllable type="normal" start="129148.39876644" length="117.40763932373" note="66" text="Ah"/>
+    <syllable type="golden" start="129265.80640576" length="587.03819661866" note="71" text="~"/>
+    <syllable type="normal" start="129852.84460238" length="234.81527864746" note="69" text="~"/>
+    <syllable type="normal" start="130087.65988103" length="117.40763932373" note="67" text="~"/>
+    <syllable type="normal" start="130205.06752035" length="587.03819661866" note="69" text="~"/>
+    <syllable type="normal" start="130792.10571697" length="117.40763932373" note="67" text="~"/>
+    <end value="131026.92099562"/>
+  </line>
+  <line>
+    <start value="131026.92099562"/>
+    <syllable type="normal" start="131026.92099562" length="117.40763932373" note="66" text="Ah"/>
+    <syllable type="normal" start="131144.32863494" length="587.03819661866" note="71" text="~"/>
+    <syllable type="normal" start="131731.36683156" length="234.81527864746" note="69" text="~"/>
+    <syllable type="normal" start="131966.18211021" length="117.40763932373" note="67" text="~"/>
+    <syllable type="normal" start="132083.58974953" length="587.03819661866" note="69" text="~"/>
+    <syllable type="normal" start="132670.62794615" length="234.81527864746" note="67" text="~"/>
+    <syllable type="normal" start="132905.4432248" length="117.40763932373" note="66" text="~"/>
+    <syllable type="normal" start="133022.85086412" length="587.03819661866" note="67" text="~"/>
+    <syllable type="normal" start="133609.88906074" length="234.81527864746" note="66" text="~"/>
+    <syllable type="normal" start="133844.70433939" length="117.40763932373" note="64" text="~"/>
+    <syllable type="normal" start="133962.11197871" length="587.03819661866" note="66" text="~"/>
+    <syllable type="normal" start="134549.15017533" length="117.40763932373" note="64" text="~"/>
+    <end value="134783.96545398"/>
+  </line>
+  <line>
+    <start value="134783.96545398"/>
+    <syllable type="normal" start="134783.96545398" length="117.40763932373" note="62" text="Ah"/>
+    <syllable type="normal" start="134901.3730933" length="587.03819661866" note="71" text="~"/>
+    <syllable type="normal" start="135488.41128992" length="234.81527864746" note="69" text="~"/>
+    <syllable type="normal" start="135723.22656857" length="117.40763932373" note="67" text="~"/>
+    <syllable type="normal" start="135840.63420789" length="587.03819661866" note="69" text="~"/>
+    <syllable type="normal" start="136427.67240451" length="234.81527864746" note="67" text="~"/>
+    <syllable type="normal" start="136662.48768316" length="117.40763932373" note="66" text="~"/>
+    <syllable type="normal" start="136779.89532248" length="587.03819661866" note="67" text="~"/>
+    <syllable type="normal" start="137366.9335191" length="234.81527864746" note="66" text="~"/>
+    <syllable type="normal" start="137601.74879775" length="117.40763932373" note="64" text="~"/>
+    <syllable type="normal" start="137719.15643707" length="587.03819661866" note="66" text="~"/>
+    <syllable type="normal" start="138306.19463369" length="117.40763932373" note="64" text="~"/>
+    <end value="138541.00991234"/>
+  </line>
+  <line>
+    <start value="138541.00991234"/>
+    <syllable type="normal" start="138541.00991234" length="117.40763932373" note="62" text="Ah"/>
+    <syllable type="normal" start="138658.41755166" length="1643.7069505322" note="64" text="~"/>
+    <end value="140419.53214152"/>
+  </line>
+  <line>
+    <start value="140419.53214152"/>
+    <syllable type="normal" start="140536.93978084" length="352.2229179712" note="59" text="I"/>
+    <syllable type="normal" start="140889.16269881" length="234.81527864746" note="62" text="~"/>
+    <syllable type="normal" start="141123.97797746" length="234.81527864746" note="64" text="~"/>
+    <end value="141476.20089543"/>
+  </line>
+  <line>
+    <start value="141476.20089543"/>
+    <syllable type="normal" start="141476.20089543" length="234.81527864746" note="64" text="Keep"/>
+    <syllable type="normal" start="141711.01617408" length="352.2229179712" note="66" text="~"/>
+    <syllable type="normal" start="142063.23909205" length="234.81527864746" note="67" text="on"/>
+    <end value="142415.46201002"/>
+  </line>
+  <line>
+    <start value="142415.46201002"/>
+    <syllable type="normal" start="142415.46201002" length="234.81527864746" note="67" text="Fall"/>
+    <syllable type="normal" start="142650.27728867" length="352.2229179712" note="66" text="~"/>
+    <syllable type="normal" start="143002.50020664" length="234.81527864746" note="64" text="in'"/>
+    <end value="143472.13076393"/>
+  </line>
+  <line>
+    <start value="143472.13076393"/>
+    <syllable type="normal" start="143706.94604258" length="234.81527864746" note="71" text="In"/>
+    <syllable type="normal" start="143941.76132123" length="352.2229179712" note="69" text=" and"/>
+    <syllable type="golden" start="144293.9842392" length="234.81527864746" note="71" text=" out"/>
+    <syllable type="normal" start="144528.79951785" length="234.81527864746" note="69" text="~"/>
+    <syllable type="normal" start="144763.61479649" length="469.63055729493" note="67" text="~"/>
+    <end value="145468.06063244"/>
+  </line>
+  <line>
+    <start value="145468.06063244"/>
+    <syllable type="normal" start="145820.28355041" length="352.2229179712" note="62" text="Of"/>
+    <syllable type="normal" start="146172.50646838" length="704.44583594239" note="64" text=" love"/>
+    <end value="147111.76758297"/>
+  </line>
+  <line>
+    <start value="147111.76758297"/>
+    <syllable type="normal" start="147463.99050094" length="234.81527864746" note="67" text="With"/>
+    <syllable type="normal" start="147698.80577959" length="352.2229179712" note="64" text="a"/>
+    <syllable type="normal" start="148051.02869756" length="234.81527864746" note="67" text=" you"/>
+    <end value="148403.25161553"/>
+  </line>
+  <line>
+    <start value="148403.25161553"/>
+    <syllable type="normal" start="148638.06689418" length="352.2229179712" note="59" text="I"/>
+    <syllable type="normal" start="148990.28981215" length="234.81527864746" note="62" text="~"/>
+    <syllable type="normal" start="149225.1050908" length="352.2229179712" note="64" text="~"/>
+    <syllable type="normal" start="149577.32800877" length="234.81527864746" note="66" text="~"/>
+    <end value="149929.55092674"/>
+  </line>
+  <line>
+    <start value="149929.55092674"/>
+    <syllable type="normal" start="149929.55092674" length="234.81527864746" note="67" text="Ne"/>
+    <syllable type="normal" start="150164.36620539" length="352.2229179712" note="66" text="~"/>
+    <syllable type="normal" start="150516.58912336" length="234.81527864746" note="64" text="ver"/>
+    <end value="150868.81204133"/>
+  </line>
+  <line>
+    <start value="150868.81204133"/>
+    <syllable type="normal" start="151103.62731997" length="352.2229179712" note="71" text="Loved"/>
+    <syllable type="normal" start="151455.85023795" length="352.2229179712" note="69" text=" some"/>
+    <syllable type="normal" start="151808.07315592" length="117.40763932373" note="71" text="one"/>
+    <syllable type="normal" start="151925.48079524" length="117.40763932373" note="69" text="~"/>
+    <syllable type="normal" start="152042.88843456" length="469.63055729493" note="67" text="~"/>
+    <end value="152747.33427051"/>
+  </line>
+  <line>
+    <start value="152747.33427051"/>
+    <syllable type="normal" start="152982.14954915" length="117.40763932373" note="62" text="The"/>
+    <syllable type="normal" start="153099.55718848" length="234.81527864746" note="62" text=" way"/>
+    <syllable type="normal" start="153334.37246713" length="352.2229179712" note="62" text=" that"/>
+    <syllable type="normal" start="153686.5953851" length="704.44583594239" note="64" text=" I"/>
+    <end value="154625.85649969"/>
+  </line>
+  <line>
+    <start value="154625.85649969"/>
+    <syllable type="normal" start="154860.67177833" length="352.2229179712" note="67" text="Love"/>
+    <syllable type="normal" start="155212.89469631" length="352.2229179712" note="64" text="a"/>
+    <syllable type="normal" start="155565.11761428" length="234.81527864746" note="67" text=" you"/>
+    <end value="155917.34053225"/>
+  </line>
+  <line>
+    <start value="155917.34053225"/>
+    <syllable type="normal" start="156152.1558109" length="352.2229179712" note="59" text="I'm-"/>
+    <syllable type="normal" start="156504.37872887" length="234.81527864746" note="62" text="~"/>
+    <syllable type="normal" start="156739.19400751" length="352.2229179712" note="64" text="~"/>
+    <syllable type="normal" start="157091.41692549" length="234.81527864746" note="66" text="~"/>
+    <end value="157443.63984346"/>
+  </line>
+  <line>
+    <start value="157443.63984346"/>
+    <syllable type="normal" start="157443.63984346" length="234.81527864746" note="67" text="Fall"/>
+    <syllable type="normal" start="157678.4551221" length="352.2229179712" note="66" text="~"/>
+    <syllable type="normal" start="158030.67804008" length="234.81527864746" note="64" text="in'"/>
+    <end value="158382.90095805"/>
+  </line>
+  <line>
+    <start value="158382.90095805"/>
+    <syllable type="normal" start="158617.71623669" length="352.2229179712" note="71" text="In"/>
+    <syllable type="normal" start="158969.93915466" length="352.2229179712" note="69" text=" and"/>
+    <syllable type="normal" start="159322.16207264" length="234.81527864746" note="71" text=" out"/>
+    <syllable type="normal" start="159556.97735128" length="234.81527864746" note="69" text="~"/>
+    <syllable type="normal" start="159791.79262993" length="469.63055729493" note="67" text="~"/>
+    <end value="160496.23846587"/>
+  </line>
+  <line>
+    <start value="160496.23846587"/>
+    <syllable type="normal" start="160848.46138384" length="352.2229179712" note="62" text="Of"/>
+    <syllable type="golden" start="161200.68430182" length="704.44583594239" note="64" text=" love"/>
+    <end value="162139.94541641"/>
+  </line>
+  <line>
+    <start value="162139.94541641"/>
+    <syllable type="normal" start="162492.16833438" length="234.81527864746" note="67" text="With"/>
+    <syllable type="normal" start="162726.98361302" length="352.2229179712" note="64" text="a"/>
+    <syllable type="normal" start="163079.206531" length="234.81527864746" note="67" text=" you"/>
+    <end value="163431.42944897"/>
+  </line>
+  <line>
+    <start value="163431.42944897"/>
+    <syllable type="normal" start="163666.24472761" length="352.2229179712" note="59" text="I"/>
+    <syllable type="normal" start="164018.46764559" length="234.81527864746" note="62" text="~"/>
+    <syllable type="normal" start="164253.28292423" length="352.2229179712" note="64" text="~"/>
+    <syllable type="normal" start="164605.5058422" length="234.81527864746" note="66" text="~"/>
+    <end value="164957.72876018"/>
+  </line>
+  <line>
+    <start value="164957.72876018"/>
+    <syllable type="normal" start="164957.72876018" length="234.81527864746" note="67" text="Ne"/>
+    <syllable type="normal" start="165192.54403882" length="352.2229179712" note="66" text="~"/>
+    <syllable type="normal" start="165544.76695679" length="234.81527864746" note="64" text="ver"/>
+    <end value="165896.98987477"/>
+  </line>
+  <line>
+    <start value="165896.98987477"/>
+    <syllable type="normal" start="166131.80515341" length="352.2229179712" note="71" text="Loved"/>
+    <syllable type="normal" start="166484.02807138" length="352.2229179712" note="69" text=" some"/>
+    <syllable type="normal" start="166836.25098936" length="117.40763932373" note="71" text="one"/>
+    <syllable type="normal" start="166953.65862868" length="117.40763932373" note="69" text="~"/>
+    <syllable type="normal" start="167071.066268" length="469.63055729493" note="67" text="~"/>
+    <end value="167775.51210394"/>
+  </line>
+  <line>
+    <start value="167775.51210394"/>
+    <syllable type="normal" start="168010.32738259" length="117.40763932373" note="62" text="The"/>
+    <syllable type="normal" start="168127.73502192" length="234.81527864746" note="62" text=" way"/>
+    <syllable type="normal" start="168362.55030056" length="352.2229179712" note="62" text=" that"/>
+    <syllable type="normal" start="168714.77321853" length="587.03819661866" note="64" text=" I"/>
+    <end value="169536.6266938"/>
+  </line>
+  <line>
+    <start value="169536.6266938"/>
+    <syllable type="normal" start="169888.84961177" length="352.2229179712" note="67" text="Love"/>
+    <syllable type="normal" start="170241.07252974" length="352.2229179712" note="64" text="a"/>
+    <syllable type="normal" start="170593.29544771" length="234.81527864746" note="67" text=" you"/>
+    <end value="170945.51836569"/>
+  </line>
+  <line>
+    <start value="170945.51836569"/>
+    <syllable type="normal" start="171180.33364433" length="352.2229179712" note="59" text="I'm-"/>
+    <syllable type="normal" start="171532.5565623" length="234.81527864746" note="62" text="~"/>
+    <syllable type="normal" start="171767.37184095" length="352.2229179712" note="64" text="~"/>
+    <syllable type="normal" start="172119.59475892" length="234.81527864746" note="66" text="~"/>
+    <end value="172471.81767689"/>
+  </line>
+  <line>
+    <start value="172471.81767689"/>
+    <syllable type="golden" start="172471.81767689" length="234.81527864746" note="67" text="Fall"/>
+    <syllable type="normal" start="172706.63295554" length="352.2229179712" note="66" text="~"/>
+    <syllable type="normal" start="173058.85587351" length="234.81527864746" note="64" text="in'"/>
+    <end value="173411.07879148"/>
+  </line>
+  <line>
+    <start value="173411.07879148"/>
+    <syllable type="normal" start="173645.89407013" length="352.2229179712" note="71" text="In"/>
+    <syllable type="normal" start="173998.1169881" length="352.2229179712" note="69" text=" and"/>
+    <syllable type="normal" start="174350.33990607" length="117.40763932373" note="71" text=" out"/>
+    <syllable type="normal" start="174467.7475454" length="117.40763932373" note="69" text="~"/>
+    <syllable type="normal" start="174585.15518472" length="587.03819661866" note="67" text="~"/>
+    <end value="175407.00865999"/>
+  </line>
+  <line>
+    <start value="175407.00865999"/>
+    <syllable type="normal" start="175876.63921728" length="352.2229179712" note="62" text="Of"/>
+    <syllable type="normal" start="176228.86213525" length="704.44583594239" note="64" text=" love"/>
+    <end value="177168.12324984"/>
+  </line>
+  <line>
+    <start value="177168.12324984"/>
+    <syllable type="normal" start="177520.34616781" length="234.81527864746" note="67" text="With"/>
+    <syllable type="normal" start="177755.16144646" length="352.2229179712" note="64" text="a"/>
+    <syllable type="normal" start="178107.38436443" length="234.81527864746" note="67" text=" you"/>
+    <end value="178459.6072824"/>
+  </line>
+  <line>
+    <start value="178459.6072824"/>
+    <syllable type="normal" start="178694.42256105" length="352.2229179712" note="59" text="I"/>
+    <syllable type="normal" start="179046.64547902" length="234.81527864746" note="62" text="~"/>
+    <syllable type="normal" start="179281.46075767" length="352.2229179712" note="64" text="~"/>
+    <syllable type="normal" start="179633.68367564" length="234.81527864746" note="66" text="~"/>
+    <end value="179985.90659361"/>
+  </line>
+  <line>
+    <start value="179985.90659361"/>
+    <syllable type="normal" start="179985.90659361" length="234.81527864746" note="67" text="Ne"/>
+    <syllable type="normal" start="180220.72187226" length="352.2229179712" note="66" text="~"/>
+    <syllable type="normal" start="180572.94479023" length="234.81527864746" note="64" text="ver"/>
+    <end value="180925.1677082"/>
+  </line>
+  <line>
+    <start value="180925.1677082"/>
+    <syllable type="normal" start="181159.98298685" length="352.2229179712" note="71" text="Loved"/>
+    <syllable type="normal" start="181512.20590482" length="352.2229179712" note="69" text=" some"/>
+    <syllable type="normal" start="181864.42882279" length="117.40763932373" note="71" text="one"/>
+    <syllable type="normal" start="181981.83646212" length="117.40763932373" note="69" text="~"/>
+    <syllable type="normal" start="182099.24410144" length="587.03819661866" note="67" text="~"/>
+    <end value="182803.68993738"/>
+  </line>
+  <line>
+    <start value="182803.68993738"/>
+    <syllable type="normal" start="183038.50521603" length="117.40763932373" note="62" text="The"/>
+    <syllable type="normal" start="183155.91285535" length="234.81527864746" note="62" text=" way"/>
+    <syllable type="normal" start="183390.728134" length="352.2229179712" note="62" text=" that"/>
+    <syllable type="normal" start="183742.95105197" length="587.03819661866" note="64" text=" I"/>
+    <end value="184564.80452724"/>
+  </line>
+  <line>
+    <start value="184564.80452724"/>
+    <syllable type="normal" start="184917.02744521" length="352.2229179712" note="67" text="Love"/>
+    <syllable type="normal" start="185269.25036318" length="352.2229179712" note="64" text="a"/>
+    <syllable type="normal" start="185621.47328115" length="234.81527864746" note="67" text=" you"/>
+    <end value="186356.2885598"/>
+  </line>
+</song>

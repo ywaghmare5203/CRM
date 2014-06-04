@@ -1,0 +1,16 @@
+
+<% if @redirect_url.present? %>
+  window.location = '<%= @redirect_url %>'
+<% end %>
+
+<% if @user.errors.any? %>
+  // Update existing error tag to display new errors.
+  <% fields = [:email, :name, :password, :password_confirmation, :terms_and_condition] %>
+  <% fields.each do |field| %>
+    $('#<%= error_tag_id @user, field %>').html('<%= escape_javascript(error_messages(@user, field)) %>');
+  <% end %>
+  
+  // Resize colorbox popup
+  $.colorbox.resize();
+<% end %>
+

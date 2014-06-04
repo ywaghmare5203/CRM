@@ -1,0 +1,38 @@
+
+<script>
+  $(function() {
+    var searchInput = $('#search_input').livesearch({ url: '/songs/search', minChar: 3 });
+    
+    // Action to perform on search success
+    searchInput.bind('success', function(event, data) {
+      $('#search_result').html(data);
+    });
+    
+    searchInput.bind('progress', function(event) {
+      $('#search_indicator').addClass('progress');
+    });
+    
+    searchInput.bind('complete', function(event) {
+      $('#search_indicator').removeClass('progress');
+    });
+    
+    $('#search_indicator').click(function() { $('#search_result').html(''); });
+  });
+</script>
+
+<div id="search_panel" class="panel">
+  <div class="header">
+
+    <input type="text" id="search_input" placeholder="Find song, artist, album"></input>
+    <span id="search_indicator">&nbsp;</span>
+
+    <div class="buttons">
+      <button>Song</button>
+      <button>Song list</button>
+    </div>
+    
+    <div class="clear"></div>
+  </div>
+    
+  <ul class="content" id="search_result"></ul>
+</div>
